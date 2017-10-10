@@ -1,0 +1,492 @@
+<?xml version="1.0"?>
+<dic>
+ <head>W</head>
+
+<entry id="w:1" n="1" type="hom">
+<form>
+<orth>W</orth>
+</form>
+<sense><def>(o _vê_ dobrado)
+É letra estranha ao alphabeto português; mas emprega-se geralmente em algumas palavras, derivadas de certos nomes próprios estrangeiros, especialmente ingleses e alemães.
+Em palavras derivadas do alemão, sôa como _v_; e, nas derivadas do inglês, como _u_. Em português, poderia portanto substituir-se respectivamente por essas duas letras.
+</def>
+</sense>
+<sense ast="1">
+<usg type="dom">Chím.</usg>
+<def>
+Abrev. de _tungstênio_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="wagneriano" ast="1">
+<form>
+<orth>Wagneriano</orth>
+<phon extent="part">va</phon>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+Relativo a Wagner, compositor musical: _escola wagneriana_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="wagnerismo" ast="1">
+<form>
+<orth>Wagnerismo</orth>
+<phon extent="part">va</phon>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Systema musical de Wagner.
+Processo ou systema de Wagner, em Música.
+</def>
+</sense>
+</entry>
+
+
+<entry id="wagnerita" ast="1">
+<form>
+<orth>Wagnerita</orth>
+<phon extent="part">vagne</phon>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Phosphato de magnésia.
+</def>
+</sense>
+<etym ori="al">(Do al. _Wagner_, n. p.)</etym>
+</entry>
+
+
+<entry id="wagnerite" ast="1">
+<form>
+<orth>Wagnerite</orth>
+<phon extent="part">vagne</phon>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Phosphato de magnésia.
+</def>
+</sense>
+<etym ori="al">(Do al. _Wagner_, n. p.)</etym>
+</entry>
+
+
+<entry id="wagnerito" ast="1">
+<form>
+<orth>Wagnerito</orth>
+<phon extent="part">vagne</phon>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Phosphato de magnésia.
+</def>
+</sense>
+<etym ori="al">(Do al. _Wagner_, n. p.)</etym>
+</entry>
+
+
+<entry id="wahlembérgia" ast="1">
+<form>
+<orth>Wahlembérgia</orth>
+<phon extent="part">valem</phon>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de plantas campanuláceas.
+</def>
+</sense>
+<etym ori="al">(Do al. _Wahlemberg_, n. p.)</etym>
+</entry>
+
+
+<entry id="waldstêinia" ast="1">
+<form>
+<orth>Waldstêinia</orth>
+<phon extent="part">val</phon>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de plantas rosáceas.
+</def>
+</sense>
+<etym ori="al">(Do al. _Waldstein_, n. p.)</etym>
+</entry>
+
+
+<entry id="walkéria" ast="1">
+<form>
+<orth>Walkéria</orth>
+<phon extent="part">uòlké</phon>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de musgos.
+</def>
+</sense>
+<etym ori="ing">(Do ing. _Walker_, n. p.)</etym>
+</entry>
+
+
+<entry id="walthéria" ast="1">
+<form>
+<orth>Walthéria</orth>
+<phon extent="part">val</phon>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de plantas buttneriáceas.
+</def>
+</sense>
+<etym ori="al">(Do al. _Walther_, n. p.)</etym>
+</entry>
+
+
+<entry id="warwicita" ast="1">
+<form>
+<orth>Warwicita</orth>
+<phon extent="part">uaru</phon>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="dom">Miner.</usg>
+<def>
+Variedade de óxydo de manganés.
+</def>
+</sense>
+<etym ori="ingl">(Do ingl. _Warwick_, n. p.)</etym>
+</entry>
+
+
+<entry id="warwicite" ast="1">
+<form>
+<orth>Warwicite</orth>
+<phon extent="part">uaru</phon>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="dom">Miner.</usg>
+<def>
+Variedade de óxydo de manganés.
+</def>
+</sense>
+<etym ori="ingl">(Do ingl. _Warwick_, n. p.)</etym>
+</entry>
+
+
+<entry id="warwicito" ast="1">
+<form>
+<orth>Warwicito</orth>
+<phon extent="part">uaru</phon>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="dom">Miner.</usg>
+<def>
+Variedade de óxydo de manganés.
+</def>
+</sense>
+<etym ori="ingl">(Do ingl. _Warwick_, n. p.)</etym>
+</entry>
+
+
+<entry id="watsónia" ast="1">
+<form>
+<orth>Watsónia</orth>
+<phon extent="part">uòt</phon>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de plantas irídeas.
+</def>
+</sense>
+<etym ori="ingl">(Do ingl. _Watson_, n. p.)</etym>
+</entry>
+
+
+<entry id="wébbia" ast="1">
+<form>
+<orth>Wébbia</orth>
+<phon extent="part">vé</phon>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de plantas synanthéreas.
+</def>
+</sense>
+<etym ori="al">(Do al. _Webb_, n. p.)</etym>
+</entry>
+
+
+<entry id="wellingtónia" ast="1">
+<form>
+<orth>Wellingtónia</orth>
+<phon extent="part">uèling</phon>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Corpulentíssima árvore conífera da Califórnia, onde attinge mais de cem metros de altura e déz de diâmetro.
+(Pertence ao gênero _sequoia gigantea_, Torr.)
+</def>
+</sense>
+<etym ori="ingl">(Do ingl. _Wellington_, n. p.)</etym>
+</entry>
+
+
+<entry id="wernerita" ast="1">
+<form>
+<orth>Wernerita</orth>
+<phon extent="part">ver</phon>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="dom">Miner.</usg>
+<def>
+Nome de vários silicatos de alumina e cal.
+</def>
+</sense>
+<etym ori="al">(Do al. _Werner_, n. p.)</etym>
+</entry>
+
+
+<entry id="wernerite" ast="1">
+<form>
+<orth>Wernerite</orth>
+<phon extent="part">ver</phon>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="dom">Miner.</usg>
+<def>
+Nome de vários silicatos de alumina e cal.
+</def>
+</sense>
+<etym ori="al">(Do al. _Werner_, n. p.)</etym>
+</entry>
+
+
+<entry id="wernerito" ast="1">
+<form>
+<orth>Wernerito</orth>
+<phon extent="part">ver</phon>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="dom">Miner.</usg>
+<def>
+Nome de vários silicatos de alumina e cal.
+</def>
+</sense>
+<etym ori="al">(Do al. _Werner_, n. p.)</etym>
+</entry>
+
+
+<entry id="wesleyano" ast="1">
+<form>
+<orth>Wesleyano</orth>
+<phon extent="part">uès</phon>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Sectário do methodismo.
+Methodista.
+</def>
+</sense>
+<etym ori="ingl">(Do ingl. _Wesley_, n. p.)</etym>
+</entry>
+
+
+<entry id="whígtia" ast="1">
+<form>
+<orth>Whígtia</orth>
+<phon extent="part">uíg</phon>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de plantas escrofularíneas.
+</def>
+</sense>
+<etym ori="ingl">(Do ingl. _Wight_, n. p.)</etym>
+</entry>
+
+
+<entry id="whist" chaveta="1">
+<form>
+<orth>Whist</orth>
+<phon extent="part">uíst</phon>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Espécie de jôgo de cartas, análogo ao da bisca.
+</def>
+</sense>
+<etym>(T. ingl.)</etym>
+</entry>
+
+
+<entry id="wiclefismo" ast="1">
+<form>
+<orth>Wiclefismo</orth>
+<phon extent="part">uí</phon>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Doutrina religiosa do heresiarcha Wiclef, segundo o qual a Igreja Romana não é superior ás demais, o clero não deve têr bens temporaes e o desregramento dos padres faz-lhes perder todos os poderes espirituaes.
+</def>
+</sense>
+</entry>
+
+
+<entry id="wiclefista" ast="1">
+<form>
+<orth>Wiclefista</orth>
+<phon extent="part">uik</phon>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Sectário do wiclefismo.
+</def>
+</sense>
+</entry>
+
+
+<entry id="widdringtónia" ast="1">
+<form>
+<orth>Widdringtónia</orth>
+<phon extent="part">uid</phon>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de plantas coníferas.
+</def>
+</sense>
+<etym ori="ingl">(Do ingl. _Widrington_, n. p.)</etym>
+</entry>
+
+
+<entry id="wiedmânnia" ast="1">
+<form>
+<orth>Wiedmânnia</orth>
+<phon extent="part">vid</phon>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Gênero de plantas labiadas.
+</def>
+</sense>
+<etym ori="al">(Do al. _Wiedemann_, n. p.)</etym>
+</entry>
+
+
+<entry id="wigândia" ast="1">
+<form>
+<orth>Wigândia</orth>
+<phon extent="part">uig</phon>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de plantas hydroleáceas.
+</def>
+</sense>
+<etym ori="ing">(Do ing. _Wigand_, n. p.)</etym>
+</entry>
+
+
+<entry id="wilbrândia" ast="1">
+<form>
+<orth>Wilbrândia</orth>
+<phon extent="part">vilb</phon>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de plantas cucurbitáceas.
+</def>
+</sense>
+<etym ori="al">(Do al. _Wilbrand_, n. p.)</etym>
+</entry>
+
+
+<entry id="wilsónia" ast="1">
+<form>
+<orth>Wilsónia</orth>
+<phon extent="part">uil</phon>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de plantas convolvuláceas.
+</def>
+</sense>
+<etym ori="ingl">(Do ingl. _Wilson_, n. p.)</etym>
+</entry>
+
+
+<entry id="wistéria" ast="1">
+<form>
+<orth>Wistéria</orth>
+<phon extent="part">vis</phon>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de plantas leguminosas.
+</def>
+</sense>
+<etym ori="al">(Do al. _Wister_, n. p.)</etym>
+</entry>
+
+
+<entry id="woodwárdia" ast="1">
+<form>
+<orth>Woodwárdia</orth>
+<phon extent="part">udu</phon>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de plantas polypódeas.
+</def>
+</sense>
+<etym ori="ingl">(Do ingl. _Woodward_, n. p.)</etym>
+</entry>
+
+
+<entry id="wríghtia" ast="1">
+<form>
+<orth>Wríghtia</orth>
+<phon extent="part">ráitia</phon>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de plantas apocýneas.
+</def>
+</sense>
+<etym ori="ingl">(Do ingl. _Wright_, n. p.)</etym>
+</entry>
+
+</dic>

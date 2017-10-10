@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<dic>
+ <head>Y</head>
+
+<entry id="y:1" n="1" type="hom">
+<form>
+<orth>Y</orth>
+<phon extent="part">úpsilon,úpsilo</phon>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Vigésima quarta letra do alphabeto português, só tolerável hoje em algumas palavras que procedem do grego ou de certas línguas estrangeiras.
+Uma das incógnitas, (em problemas de Mathemática).
+</def>
+</sense>
+<sense ast="1">
+<def>
+Como letra numeral, valeu 150 e, com um til por cima, 150:000.
+É vulgar o uso do _y_ em palavras brasileiras de origem tupi e em muitos nomes geográphicos e ethnográphicos da América. Explicam o phenómeno com o facto de que em taes casos, o _i_ não representaria o som que primitivamente se convencionou representar por _y_.
+E assim também, na antiga orthogr. port., era vulgar o uso do _y_ entre vogaes ou no fim de palavras, adeante de outra vogal: _meyo_, _pay_, _rey_, etc.; e explicava-se êsse uso com o facto de que tal letra não representava o valor de _i_, mas de dois _ii_. Ora dês que o _y_, no actual estado da língua, só póde soar como _i_, nada justifica o emprêgo delle em palavras que não procedam do grego; e ainda nestas, o seu emprêgo seria vantajosamente eliminado, seguindo-se bons exemplos da Italia e da Espanha.
+(O _y_ é falsamente denominado _i grego_: não existe no alphabeto grego; é convenção latina, para representação do _úpsilon_, representação incoherente, porque os Latinos umas vezes representaram o _úpsilon_, por _y_, outras por _u_, e outras por _i_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="yorkino" ast="1">
+<form>
+<orth>Yorkino</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+Relativo a York.
+</def>
+</sense>
+<sense>
+<gramGrp>M.</gramGrp>
+<def>
+Aquelle que é natural de York.
+</def>
+</sense>
+</entry>
+
+
+<entry id="york-madeira" ast="1">
+<form>
+<orth>York-Madeira</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Espécie de videira hýbrida.
+</def>
+</sense>
+</entry>
+
+
+<entry id="ýpsilon">
+<form>
+<orth>Ýpsilon</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+O mesmo que _úpsilon_.
+Designação da letra _Y_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="ytterbite" ast="1">
+<form>
+<orth>Ytterbite</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Designação primitiva da _gadolinite_.
+</def>
+</sense>
+<etym ori="nome">(De _Ytterby_, n. p.)</etym>
+</entry>
+
+
+<entry id="ýttria">
+<form>
+<orth>Ýttria</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Óxydo de ýttrio.
+</def>
+</sense>
+</entry>
+
+
+<entry id="ýttrico" ast="1">
+<form>
+<orth>Ýttrico</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+Relativo ao ýttrio.
+</def>
+</sense>
+</entry>
+
+
+<entry id="ýttrio">
+<form>
+<orth>Ýttrio</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Metal terroso.
+</def>
+</sense>
+<etym ori="rad">(Do rad. de _ytterbite_)</etym>
+</entry>
+
+
+<entry id="yttrotantalito" ast="1">
+<form>
+<orth>Yttrotantalito</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Tantalato de ýttrio.
+</def>
+</sense>
+<etym>(De _ýttrio_ + _tantalito_)</etym>
+</entry>
+
+</dic>

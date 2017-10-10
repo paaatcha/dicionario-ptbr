@@ -1,0 +1,5592 @@
+<?xml version="1.0"?>
+<dic>
+ <head>X</head>
+
+<entry id="x:1" n="1" type="hom">
+<form>
+<orth>X</orth>
+<phon extent="part">xis</phon>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Vigésima terceira letra do alphabeto português.
+Designação de _déz_, em numeração romana.
+</def>
+</sense>
+<sense ast="1"><gramGrp>Loc.</gramGrp>
+<usg type="style">fam.</usg>
+<def>
+_Uma de X_, quantia mínima: <cit type="example"><quote>«_póde dar os bens ao outro filho, que eu não lhe quero uma de X._»</quote></cit> Camillo, _Brasileira_, 29.
+</def>
+</sense>
+<sense>
+<usg type="dom">Mathem.</usg>
+<def>
+Valor desconhecido numa quantidade ou equação.
+</def>
+</sense>
+<sense>
+<usg type="style">Ext.</usg>
+<def>
+Aquillo que se desconhece.
+</def>
+</sense>
+<etym orig="Lat">(Lat. _x_)</etym>
+</entry>
+
+
+<entry id="x:2" n="2" type="hom" ast="1">
+<form>
+<orth>X</orth>
+</form>
+<sense>
+<gramGrp>adj. pl.</gramGrp>
+<def>
+Diz-se dos raios, em que se baseia o processo da photographia através dos corpos opacos.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xá" ast="1">
+<form>
+<orth>Xá</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Título do soberano da Pérsia. Cf. _Ethiópia Or._, II, 27.
+(Do persa _xah_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xàbândar" ast="1">
+<form>
+<orth>Xàbândar</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="style">Ant.</usg>
+<def>
+Patrão de pôrto, entre os Índios.
+(Pers. _xah bánder_, de _xah_, rei, e _bánder_, pôrto)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xàbandaria" ast="1">
+<form>
+<orth>Xàbandaria</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="style">Ant.</usg>
+<def>
+Cargo xàbândar.
+E talvez ribeira das naus, entre os Índios. Cf. Barros, _Dec._ I, liv. IX, fol. 8.^o v.^o; Castanheda, _Descobr._, liv. V, 307; liv. III, 77; Filinto, _D. Man._, II, 278.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xàbânder" ast="1">
+<form>
+<orth>Xàbânder</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="style">Ant.</usg>
+<def>
+Patrão de pôrto, entre os Índios.
+(Pers. _xah bánder_, de _xah_, rei, e _bánder_, pôrto)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xaboco" ast="1">
+<form>
+<orth>Xaboco</orth>
+<phon extent="part">bô</phon>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="geo">T. do Ribatejo</usg>
+<def>
+Lagôa ou grande poço de água.
+</def>
+</sense>
+<etym ori="ár">(Do ár. _xaboke_)</etym>
+</entry>
+
+
+<entry id="xabrega" ast="1">
+<form>
+<orth>Xabrega</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="style">Prov.</usg>
+<usg type="geo">alg.</usg>
+<def>
+Estrago, damno, especialmente nas vinhas, campos, etc.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xabregano" ast="1">
+<form>
+<orth>Xabregano</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Frade franciscano do convento de Xabregas.
+</def>
+</sense>
+<sense>
+<usg type="style">Ext.</usg>
+<def>
+Franciscano. Cf. Filinto, VI, 27; X, 134.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xácara">
+<form>
+<orth>Xácara</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Narrativa popular, em verso.
+</def>
+</sense>
+<etym ori="ár">(Do ár. _zacara_)</etym>
+</entry>
+
+
+<entry id="xacoco">
+<form>
+<orth>Xacoco</orth>
+<phon extent="part">cô</phon>
+</form>
+<sense>
+<gramGrp>m.  e  adj.</gramGrp>
+<def>
+O mesmo que _enxacoco_.
+</def>
+</sense>
+<sense>
+<usg type="style">Fam.</usg>
+<def>
+O que é desemxabido, desengraçado, ordinário.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xacoina" ast="1">
+<form>
+<orth>Xacoina</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="style">Ant.</usg>
+<def>
+O mesmo que _chacona_: <cit type="example"><quote>«_...na xacoina por cima tem mui differente sentido este conceito._»</quote></cit> _Anat. Joc._, II, 433.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xácoma" ast="1">
+<form>
+<orth>Xácoma</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="style">Ant.</usg>
+<def>
+O mesmo que _xáquema_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xacoto" ast="1">
+<form>
+<orth>Xacoto</orth>
+<phon extent="part">cô</phon>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="style">Prov.</usg>
+<usg type="geo">trasm.</usg>
+<def>
+Pau pequeno.
+(Cp. _jangoto_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xadrez">
+<form>
+<orth>Xadrez</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Jôgo, sôbre um tabuleiro com 64 casas, em que se fazem mover differentes peças ou figuras.
+Tabuleiro dêsse jôgo.
+Gênero de tecidos, cujas côres são dispostas em quadrados alternados, como as casas do tabuleiro, em que se joga o xadrez.
+Embutidos de pedra ou madeira, que dão o aspecto daquelles quadrados.
+Engradamento de madeira, que serve de sobrado, a bordo.
+Insecto lepidóptero.
+</def>
+</sense>
+<sense>
+<def>
+Mosaico.
+</def>
+</sense>
+<sense>
+<usg type="geo">Bras</usg>
+<def>
+Pôsto policial.
+</def>
+</sense>
+<etym ori="ár">(Do ár. _ax-xitrenj_)</etym>
+</entry>
+
+
+<entry id="xadrezar">
+<form>
+<orth>Xadrezar</orth>
+</form>
+<sense>
+<gramGrp>v. t.</gramGrp>
+<def>
+Dispor em fórma de xadrez; enxadrezar.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xadrezista" ast="1">
+<form>
+<orth>Xadrezista</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+O mesmo que _enxadrezista_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xaes" ast="1">
+<form>
+<orth>Xaes</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Antiga moéda de prata, na Pérsia. Cf. Tenreiro, _Itiner._, c. XV, 368.
+(Cp. _xal_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xafarraz" ast="1">
+<form>
+<orth>Xafarraz</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Espécie de jôgo popular.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xágara" ast="1">
+<form>
+<orth>Xágara</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Espécie de açúcar, o mesmo que _jágara_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xaguão">
+<form>
+<orth>Xaguão</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+(Fórma preferível a _saguão_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xaimão" ast="1">
+<form>
+<orth>Xaimão</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="dom">Pesc.</usg>
+<def>
+Cabo, preso por uma extremidade na forcada da sardinheira, fixando a outra na fateixa de tanchar a rêde.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xaimel" ast="1">
+<form>
+<orth>Xaimel</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+O mesmo que _enxaimel_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xairel">
+<form>
+<orth>Xairel</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Cobertura da cavalgadura, sôbre que se põe o sellim ou a albarda.
+</def>
+</sense>
+<sense ast="1">
+<usg type="style">Prov.</usg>
+<usg type="geo">trasm.</usg>
+<def>
+Chale ordinário; vestido reles.
+</def>
+</sense>
+<sense>
+<gramGrp>Adj.</gramGrp>
+<def>
+O mesmo que _xairelado_.
+</def>
+</sense>
+<sense ast="1">
+<usg type="style">Prov.</usg>
+<usg type="geo">trasm.</usg>
+<def>
+Fraco, adoentado.
+(Cp. cast. _girel_, do ár. _jilel_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xairelado">
+<form>
+<orth>Xairelado</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+Diz-se do cavallo, que tem mancha branca no selladoiro.
+</def>
+</sense>
+<etym>(De _xairel_)</etym>
+</entry>
+
+
+<entry id="xaja" ast="1">
+<form>
+<orth>Xaja</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Planta tinctorial da Índia.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xal" ast="1">
+<form>
+<orth>Xal</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+O mesmo que _xaes_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xalapa" ast="1">
+<form>
+<orth>Xalapa</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+O mesmo que _jalapa_^1.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xalavar" ast="1">
+<form>
+<orth>Xalavar</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="dom">Pesc.</usg>
+<def>
+Rêde, de fórma quási cónica, em que se deita peixe, para medir ou determinar a porção pescada.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xale" ast="1">
+<form>
+<orth>Xale</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+O mesmo ou melhór que _chale_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xales" ast="1">
+<form>
+<orth>Xales</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="style">Prov.</usg>
+<def>
+(V. _chale_^1)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xalmas">
+<form>
+<orth>Xalmas</orth>
+</form>
+<sense>
+<gramGrp>f. pl.</gramGrp>
+<def>
+Engradamento, que se faz num carro ou num barco, para segurar a palha que se transporta.
+O mesmo que _xelma_.
+(Cp. cast. _jalma_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xamacocos" ast="1">
+<form>
+<orth>Xamacocos</orth>
+</form>
+<sense>
+<gramGrp>m. pl.</gramGrp>
+<usg type="geo">Bras</usg>
+<def>
+Tríbo de aborígenes de Mato-Grosso.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xamas" ast="1">
+<form>
+<orth>Xamas</orth>
+</form>
+<sense>
+<gramGrp>m. pl.</gramGrp>
+<def>
+Indígenas do Norte do Brasil.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xamata" ast="1">
+<form>
+<orth>Xamata</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Espécie de manto oriental.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xàmáta" ast="1">
+<form>
+<orth>Xàmáta</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+O mesmo que _xàmáte_. Cf. Mad. Feijó, _Orthogr._
+</def>
+</sense>
+</entry>
+
+
+<entry id="xàmáte">
+<form>
+<orth>Xàmáte</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Posição, em que uma das figuras do xadrez, chamada cavallo, não póde mover-se sem sêr comida por outra figura ou peça do adversário.
+(Contr. de _xaque_ + _mate_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xangó" ast="1">
+<form>
+<orth>Xangó</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="geo">Bras</usg>
+<def>
+Pequeno peixe marítimo.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xanteína" ast="1">
+<form>
+<orth>Xanteína</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Matéria còrante, que se extrai da dáhlia amarela.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_)</etym>
+</entry>
+
+
+<entry id="xantelasma" ast="1">
+<form>
+<orth>Xantelasma</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="dom">Med.</usg>
+<def>
+Formação de pequenas placas amareladas na pelle.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_ + _elasma_)</etym>
+</entry>
+
+
+<entry id="xanteloma" ast="1">
+<form>
+<orth>Xanteloma</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+<ref>(V. <term>xantoma</term>)</ref>
+</def>
+</sense>
+</entry>
+
+
+<entry id="xantena" ast="1">
+<form>
+<orth>Xantena</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Variedade de pedra preciosa.
+(Cp. _xanto_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xantheína" ast="1">
+<form>
+<orth>Xantheína</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Matéria còrante, que se extrai da dáhlia amarela.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_)</etym>
+</entry>
+
+
+<entry id="xanthelasma" ast="1">
+<form>
+<orth>Xanthelasma</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="dom">Med.</usg>
+<def>
+Formação de pequenas placas amareladas na pelle.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_ + _elasma_)</etym>
+</entry>
+
+
+<entry id="xantheloma" ast="1">
+<form>
+<orth>Xantheloma</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+<ref>(V. <term>xanthoma</term>)</ref>
+</def>
+</sense>
+</entry>
+
+
+<entry id="xanthena" ast="1">
+<form>
+<orth>Xanthena</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Variedade de pedra preciosa.
+(Cp. _xantho_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xânthico" ast="1">
+<form>
+<orth>Xânthico</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="dom">Chím.</usg>
+<def>
+Relativo á côr amarela.
+Diz-se de um ácido; e diz-se de um óxydo que é a xanthina azotada.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xantos_, amarelo)</etym>
+</entry>
+
+
+<entry id="xanthina">
+<form>
+<orth>Xanthina</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Substância còrante, extrahida da granza.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_)</etym>
+</entry>
+
+
+<entry id="xânthio" ast="1">
+<form>
+<orth>Xânthio</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Planta aquática.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthion_)</etym>
+</entry>
+
+
+<entry id="xantho" ast="1">
+<form>
+<orth>Xantho</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Pedra preciosa amarela, mencionada pelos antigos, mas desconhecida hoje.
+Gênero de crustáceos.
+Gênero de plantas, que segregam um suco amarelado.
+</def>
+</sense>
+<etym orig="Lat">(Lat. _xanthos_)</etym>
+</entry>
+
+
+<entry id="xanthochromia" ast="1">
+<form>
+<orth>Xanthochromia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="dom">Med.</usg>
+<def>
+Côr amarelada da pelle, devida, não á ictericia, mas á generalização do xanthelasma.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_ + _khroma_)</etym>
+</entry>
+
+
+<entry id="xanthócomo">
+<form>
+<orth>Xanthócomo</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Gênero de plantas americanas.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_ + _kome_)</etym>
+</entry>
+
+
+<entry id="xanthogênico" ast="1">
+<form>
+<orth>Xanthogênico</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+Diz-se do micróbio da febre amarela.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_ + _genos_)</etym>
+</entry>
+
+
+<entry id="xanthoma" ast="1">
+<form>
+<orth>Xanthoma</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="dom">Med.</usg>
+<def>
+Formação de pequenas placas amareladas na pelle.--É preferível _xantheplasma_.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_, amarelo)</etym>
+</entry>
+
+
+<entry id="xanthophylla" ast="1">
+<form>
+<orth>Xanthophylla</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="dom">Chím.</usg>
+<def>
+Substância còrante, que se desenvolve, quando as fôlhas caem, no outono.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_ + _phullon_)</etym>
+</entry>
+
+
+<entry id="xanthopicrito" ast="1">
+<form>
+<orth>Xanthopicrito</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="dom">Chím.</usg>
+<def>
+Substância amarela e amarga, que se extrai de algumas xanthoxýleas.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xanthoproteico" ast="1">
+<form>
+<orth>Xanthoproteico</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="dom">Chím.</usg>
+<def>
+Diz-se de um ácido amarelo, que resulta da decomposição de substâncias orgânicas azotadas, pela acção do ácido nítrico.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_ + _protos_)</etym>
+</entry>
+
+
+<entry id="xanthopsia" ast="1">
+<form>
+<orth>Xanthopsia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Doença visual dos que vêem tudo amarelo.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_ + _ops_)</etym>
+</entry>
+
+
+<entry id="xanthóptero" ast="1">
+<form>
+<orth>Xanthóptero</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+Que tem asas amarelas.
+</def>
+</sense>
+<sense>
+<gramGrp>M.</gramGrp>
+<def>
+Gênero de insectos lepidópteros nocturnos da Rússia meridional.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_ + _pteron_)</etym>
+</entry>
+
+
+<entry id="xanthorrheia" ast="1">
+<form>
+<orth>Xanthorrheia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de plantas monocotyledóneas da Nova-Hollanda.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_ + _rhein_)</etym>
+</entry>
+
+
+<entry id="xanthorrhizo" ast="1">
+<form>
+<orth>Xanthorrhizo</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="dom">Bot.</usg>
+<def>
+Que tem raízes amarelas.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_ + _rhiza_)</etym>
+</entry>
+
+
+<entry id="xanthose" ast="1">
+<form>
+<orth>Xanthose</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="dom">Chím.</usg>
+<def>
+Substância amarela, que se encontra nas manchas irregulares do caranguejo.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_)</etym>
+</entry>
+
+
+<entry id="xanthospermo" ast="1">
+<form>
+<orth>Xanthospermo</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="dom">Bot.</usg>
+<def>
+Que tem sementes amarelas.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_ + _sperma_)</etym>
+</entry>
+
+
+<entry id="xanthoxýleas">
+<form>
+<orth>Xanthoxýleas</orth>
+<phon extent="part">csi</phon>
+</form>
+<sense>
+<gramGrp>f. pl.</gramGrp>
+<def>
+Tríbo de plantas rutáceas, que outros consideram família.
+</def>
+</sense>
+<etym>(De _xanthóxylo_)</etym>
+</entry>
+
+
+<entry id="xanthóxylo" ast="1">
+<form>
+<orth>Xanthóxylo</orth>
+<phon extent="part">csi</phon>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="dom">Bot.</usg>
+<def>
+Cuja madeira é amarela.
+</def>
+</sense>
+<sense>
+<gramGrp>M.</gramGrp>
+<def>
+Arbusto, (_xanthophylum fraxineum_, Wild.), que é o typo das xanthoxýleas.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_ + _xulon_)</etym>
+</entry>
+
+
+<entry id="xântico" ast="1">
+<form>
+<orth>Xântico</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="dom">Chím.</usg>
+<def>
+Relativo á côr amarela.
+Diz-se de um ácido; e diz-se de um óxido que é a xantina azotada.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xantos_, amarelo)</etym>
+</entry>
+
+
+<entry id="xantina">
+<form>
+<orth>Xantina</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Substância còrante, extraida da granza.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_)</etym>
+</entry>
+
+
+<entry id="xântio" ast="1">
+<form>
+<orth>Xântio</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Planta aquática.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthion_)</etym>
+</entry>
+
+
+<entry id="xanto" ast="1">
+<form>
+<orth>Xanto</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Pedra preciosa amarela, mencionada pelos antigos, mas desconhecida hoje.
+Gênero de crustáceos.
+Gênero de plantas, que segregam um suco amarelado.
+</def>
+</sense>
+<etym orig="Lat">(Lat. _xanthos_)</etym>
+</entry>
+
+
+<entry id="xantocromia" ast="1">
+<form>
+<orth>Xantocromia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="dom">Med.</usg>
+<def>
+Côr amarelada da pele, devida, não á ictericia, mas á generalização do xantelasma.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_ + _khroma_)</etym>
+</entry>
+
+
+<entry id="xantócomo">
+<form>
+<orth>Xantócomo</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Gênero de plantas americanas.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_ + _kome_)</etym>
+</entry>
+
+
+<entry id="xantofila" ast="1">
+<form>
+<orth>Xantofila</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="dom">Chím.</usg>
+<def>
+Substância còrante, que se desenvolve, quando as fôlhas caem, no outono.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_ + _phullon_)</etym>
+</entry>
+
+
+<entry id="xantogênico" ast="1">
+<form>
+<orth>Xantogênico</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+Diz-se do micróbio da febre amarela.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_ + _genos_)</etym>
+</entry>
+
+
+<entry id="xantoma" ast="1">
+<form>
+<orth>Xantoma</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="dom">Med.</usg>
+<def>
+Formação de pequenas placas amareladas na pelle.--É preferível _xanteplasma_.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_, amarelo)</etym>
+</entry>
+
+
+<entry id="xantopicrito" ast="1">
+<form>
+<orth>Xantopicrito</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="dom">Chím.</usg>
+<def>
+Substância amarela e amarga, que se extrai de algumas xantoxíleas.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xantoproteico" ast="1">
+<form>
+<orth>Xantoproteico</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="dom">Chím.</usg>
+<def>
+Diz-se de um ácido amarelo, que resulta da decomposição de substâncias orgânicas azotadas, pela acção do ácido nítrico.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_ + _protos_)</etym>
+</entry>
+
+
+<entry id="xantopsia" ast="1">
+<form>
+<orth>Xantopsia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Doença visual dos que vêem tudo amarelo.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_ + _ops_)</etym>
+</entry>
+
+
+<entry id="xantóptero" ast="1">
+<form>
+<orth>Xantóptero</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+Que tem asas amarelas.
+</def>
+</sense>
+<sense>
+<gramGrp>M.</gramGrp>
+<def>
+Gênero de insectos lepidópteros nocturnos da Rússia meridional.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_ + _pteron_)</etym>
+</entry>
+
+
+<entry id="xantorreia" ast="1">
+<form>
+<orth>Xantorreia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de plantas monocotiledóneas da Nova-Holanda.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_ + _rhein_)</etym>
+</entry>
+
+
+<entry id="xantorrizo" ast="1">
+<form>
+<orth>Xantorrizo</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="dom">Bot.</usg>
+<def>
+Que tem raízes amarelas.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_ + _rhiza_)</etym>
+</entry>
+
+
+<entry id="xantose" ast="1">
+<form>
+<orth>Xantose</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="dom">Chím.</usg>
+<def>
+Substância amarela, que se encontra nas manchas irregulares do caranguejo.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_)</etym>
+</entry>
+
+
+<entry id="xantospermo" ast="1">
+<form>
+<orth>Xantospermo</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="dom">Bot.</usg>
+<def>
+Que tem sementes amarelas.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_ + _sperma_)</etym>
+</entry>
+
+
+<entry id="xantoxíleas" ast="1">
+<form>
+<orth>Xantoxíleas</orth>
+<phon extent="part">csi</phon>
+</form>
+<sense>
+<gramGrp>f. pl.</gramGrp>
+<def>
+Tríbo de plantas rutáceas, que outros consideram família.
+</def>
+</sense>
+<etym>(De _xantóxilo_)</etym>
+</entry>
+
+
+<entry id="xantóxilo" ast="1">
+<form>
+<orth>Xantóxilo</orth>
+<phon extent="part">csi</phon>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="dom">Bot.</usg>
+<def>
+Cuja madeira é amarela.
+</def>
+</sense>
+<sense>
+<gramGrp>M.</gramGrp>
+<def>
+Arbusto, (_xanthophylum fraxineum_, Wild.), que é o tipo das xantoxíleas.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xanthos_ + _xulon_)</etym>
+</entry>
+
+
+<entry id="xaperus" ast="1">
+<form>
+<orth>Xaperus</orth>
+</form>
+<sense>
+<gramGrp>m. pl.</gramGrp>
+<def>
+Indígenas do Norte do Brasil.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xaque">
+<form>
+<orth>Xaque</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+O mesmo ou melhór que _xeque_, no xadrez. Cf. R. Lobo, _Côrte na Aldeia_, I, 9.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xaquear">
+<form>
+<orth>Xaquear</orth>
+</form>
+<sense>
+<gramGrp>v. t.</gramGrp>
+<def>
+Dar xaque a. Cf. _Eufrosina_, 267.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xaqueca" ast="1">
+<form>
+<orth>Xaqueca</orth>
+<phon extent="part">quê</phon>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="style">Ant.</usg>
+<def>
+O mesmo que _enxaqueca_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xáquema">
+<form>
+<orth>Xáquema</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Tecido grosso, próprio para silhas.
+</def>
+</sense>
+<etym ori="ár">(Do ár. _xaquima_)</etym>
+</entry>
+
+
+<entry id="xaque-mate" ast="1">
+<form>
+<orth>Xaque-mate</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+O mesmo ou melhór que _xeque-mate_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xaquetar" ast="1">
+<form>
+<orth>Xaquetar</orth>
+</form>
+<sense>
+<gramGrp>v. t.</gramGrp>
+<def>
+Salpicar.
+Entremear: _vinhas xaquetadas de oliveiras_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xáquima" ast="1">
+<form>
+<orth>Xáquima</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="style">Ant.</usg>
+<def>
+Cabeçada.
+Corda, com que se prende uma bêsta.
+(Cp. _xáquema_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xara:1" n="1" type="hom">
+<form>
+<orth>Xara</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Seta, feita de pau tostado.
+O mesmo que _estêva_^2.
+</def>
+</sense>
+<etym ori="ár">(Do ár. _xara_)</etym>
+</entry>
+
+
+<entry id="xara:2" n="2" type="hom" ast="1">
+<form>
+<orth>Xara</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Casta de uva beirôa.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xará" ast="1">
+<form>
+<orth>Xará</orth>
+</form>
+<sense>
+<gramGrp>m. ,  f.  e  adj.</gramGrp>
+<usg type="geo">Bras</usg>
+<def>
+Pessôa, que tem o mesmo nome que outra.
+Homónymo; tucaio.
+</def>
+</sense>
+<sense>
+<gramGrp>M.</gramGrp>
+<def>
+Bailado campestre.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xarafim" ast="1">
+<form>
+<orth>Xarafim</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+O mesmo que _xerafim_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xarafo" ast="1">
+<form>
+<orth>Xarafo</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="style">Ant.</usg>
+<def>
+Cambiador, na Índia Portuguesa.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xarapim" ast="1">
+<form>
+<orth>Xarapim</orth>
+</form>
+<sense>
+<gramGrp>m.  e  f.</gramGrp>
+<usg type="geo">Bras</usg>
+<def>
+O mesmo que _xará_?
+</def>
+</sense>
+</entry>
+
+
+<entry id="xaraque">
+<form>
+<orth>Xaraque</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="style">Ant.</usg>
+<def>
+Praça grande.
+(Do ár.)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xarau" ast="1">
+<form>
+<orth>Xarau</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="style">Ant.</usg>
+<def>
+Sura ou vinho de palmeira, cozido duas ou três vezes.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xarda" ast="1">
+<form>
+<orth>Xarda</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Peixe de Portugal.
+(Corr. de _sarda_?)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xarel" ast="1">
+<form>
+<orth>Xarel</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+O mesmo que _xairel_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xarém" ast="1">
+<form>
+<orth>Xarém</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="style">Prov.</usg>
+<usg type="geo">alg.</usg>
+<def>
+O mesmo que _xerém_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xareta">
+<form>
+<orth>Xareta</orth>
+<phon extent="part">xarê</phon>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Rêde, com que se impede a abordagem de um navio.
+Rêde de pescar.
+</def>
+</sense>
+<etym ori="ár">(Do ár. _xarita_)</etym>
+</entry>
+
+
+<entry id="xaréu:1" n="1" type="hom" ast="1">
+<form>
+<orth>Xaréu</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Peixe grande, mas ordinário, do Brasil.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xaréu:2" n="2" type="hom" ast="1">
+<form>
+<orth>Xaréu</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="style">Prov.</usg>
+<usg type="geo">trasm.</usg>
+<def>
+Frio intenso.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xaréu:3" n="3" type="hom" ast="1">
+<form>
+<orth>Xaréu</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="geo">Bras. do N</usg>
+<def>
+Capa de coiro, com que os vaqueiros cobrem as ancas do cavallo.
+(Cp. _xairel_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xarifa" ast="1">
+<form>
+<orth>Xarifa</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="style">Gír.</usg>
+<def>
+Partes pudendas da mulhér.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xarife" ast="1">
+<form>
+<orth>Xarife</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Título, usado por príncipes moiros, descendentes de Mafoma.
+Título dos Muçulmanos, que visitaram três vezes o templo de Meca, podendo por isso usar turbante verde.
+</def>
+</sense>
+<etym>(T. ár.)</etym>
+</entry>
+
+
+<entry id="xarimbote" ast="1">
+<form>
+<orth>Xarimbote</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="style">Prov.</usg>
+<usg type="geo">alent.</usg>
+<def>
+Jôgo popular em que um tição vai passando de mão em mão, acompanhado por um estribilho, perdendo a pessôa, em cujas mãos êlle se apagou.
+(Cp. _chirimbote_, que é outra fórma da mesma palavra)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xaroco">
+<form>
+<orth>Xaroco</orth>
+<phon extent="part">xarô</phon>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Vento quente do Suéste, sôbre o Mediterrâneo.
+</def>
+</sense>
+<sense ast="1">
+<usg type="style">Prov.</usg>
+<usg type="geo">alent.</usg>
+<def>
+Vento frio, que no inverno sopra do Levante, e a que também se chama vento espanhol.
+</def>
+</sense>
+<etym ori="it">(Do it. _scirocco_)</etym>
+</entry>
+
+
+<entry id="xaropada">
+<form>
+<orth>Xaropada</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Porção de xarope.
+Xarope, que se póde tomar de uma vez.
+</def>
+</sense>
+<sense>
+<usg type="style">Pop.</usg>
+<def>
+Qualquer medicamento contra a tosse.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xaropar">
+<form>
+<orth>Xaropar</orth>
+</form>
+<sense>
+<gramGrp>v. t.</gramGrp>
+<def>
+Tratar com xarope; dar tisanas a.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xarope">
+<form>
+<orth>Xarope</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Medicamento líquido e viscoso, resultante da mistura de certos líquidos com a porção de açúcar necessária para os saturar.
+</def>
+</sense>
+<sense>
+<usg type="style">Fam.</usg>
+<def>
+Lambedor.
+Tisana.
+Remédio caseiro.
+</def>
+</sense>
+<etym ori="fr">(Do fr. _sirop_)</etym>
+</entry>
+
+
+<entry id="xaroposo">
+<form>
+<orth>Xaroposo</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+Que tem a consistência do xarope.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xarque" ast="1">
+<form>
+<orth>Xarque</orth>
+</form>
+<sense><def>_m._ (e der.)
+(V. _charque_, etc.)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xarrasca" ast="1">
+<form>
+<orth>Xarrasca</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="dom">Pesc.</usg>
+<def>
+Apparelho especial de linha e anzol, para a pesca de peixes que têm beiços carnudos.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xarroco">
+<form>
+<orth>Xarroco</orth>
+<phon extent="part">rô</phon>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Peixe, da classe dos thorácicos.
+Peixe pércida do Mediterrâneo.
+</def>
+</sense>
+<sense ast="1">
+<usg type="style">Prov.</usg>
+<usg type="geo">alent.</usg>
+<def>
+Dedeira, com que os ceifeiros resguardam dos golpes da foice o dedo pollegar da mão esquerda.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xarta" ast="1">
+<form>
+<orth>Xarta</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="style">Ant.</usg>
+<def>
+O mesmo que _enxárcia_?: <cit type="example"><quote>«_...com levarmos xarta tomada e brandaes..._»</quote></cit> _Hist. Trág. Marit._
+(Cp. _sarta_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xastre" ast="1">
+<form>
+<orth>Xastre</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="style">Ant.</usg>
+<def>
+O mesmo que _alfaiate_. Cf. Garrett, _Romanceiro_, II, 173 e 196.
+(Cast. _sastre_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xátria" ast="1">
+<form>
+<orth>Xátria</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Membro da segunda das castas, em que se dividem os sectários do Brahmanismo, (a classe dos guerreiros, a que pertencem os Rajas).
+</def>
+</sense>
+</entry>
+
+
+<entry id="xautér" ast="1">
+<form>
+<orth>Xautér</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Muçulmano, que guia os viandantes nos desertos da Arábia. Cf. Godinho, _Viagem da Índia_, liv. I, c. LXIV, 116.
+(Do ár.)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xaveco">
+<form>
+<orth>Xaveco</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Pequena embarcação.
+</def>
+</sense>
+<sense>
+<usg type="style">Fam.</usg>
+<def>
+Barco pequeno e mal construído ou velho; embarcação ordinária.
+</def>
+</sense>
+<sense ast="1"><gramGrp>m.</gramGrp>
+<def>
+O mesmo ou melhór que _chaveco_.
+</def>
+</sense>
+<etym ori="ár">(Do ár. _xabeca_)</etym>
+</entry>
+
+
+<entry id="xávega">
+<form>
+<orth>Xávega</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Rede para a pesca de peixe miúdo.
+Barco, em que os pescadores levam essa rede.
+(Da mesma or. que _chaveco_)
+</def>
+</sense>
+<sense ast="1"><gramGrp>f.</gramGrp>
+<def>
+O mesmo ou melhór que _chávega_.
+(Cast. _jábega_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xeco" ast="1">
+<form>
+<orth>Xeco</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="style">Ant.</usg>
+<def>
+(?): <cit type="example"><quote>«_...chamo pelos vizinhos, e ella nega dar-me em xeco._»</quote></cit> G. Vicente, I, 169.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xelim" ast="1">
+<form>
+<orth>Xelim</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Moéda inglesa de prata, correspondente a 225 reis.
+</def>
+</sense>
+<etym ori="ingl">(Do ingl. _shilling_)</etym>
+</entry>
+
+
+<entry id="xelma" ast="1">
+<form>
+<orth>Xelma</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Espécie de sebe, com que se ladeia o tabuleiro de um carro, para amparar a carrada.
+</def>
+</sense>
+<etym ori="ár">(Do ár. _sollam_)</etym>
+</entry>
+
+
+<entry id="xelro" ast="1">
+<form>
+<orth>Xelro</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="style">Gír.</usg>
+<def>
+Prisão.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xenim" ast="1">
+<form>
+<orth>Xenim</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Espécie de capitão, entre os antigos povos da Indo-China. Cf. _Conq. do Pegu_, VIII.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xém-xém" ast="1">
+<form>
+<orth>Xém-xém</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="geo">Bras</usg>
+<def>
+Moéda falsa de cobre que há meio século tinha curso no Brasil.
+Ave canora do Brasil.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xenagia" ast="1">
+<form>
+<orth>Xenagia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Divisão militar grega, o mesmo que _syntagma_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xendi" ast="1">
+<form>
+<orth>Xendi</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="style">Ant.</usg>
+<def>
+Trança solta de cabello.
+(Conc. _xendi_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xenelásia" ast="1">
+<form>
+<orth>Xenelásia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Interdicção, que se faz aos estrangeiros, de entrar num país ou numa cidade.
+</def>
+</sense>
+<etym orig="Gr">(Gr. _xenelasia_)</etym>
+</entry>
+
+
+<entry id="xênia" ast="1">
+<form>
+<orth>Xênia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Presente que, entre os Gregos antigos, se dava aos hóspedes, depois da refeição.
+Presente que, em certas épocas do anno, se mandava aos amigos.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xenos_)</etym>
+</entry>
+
+
+<entry id="xenodonte" ast="1">
+<form>
+<orth>Xenodonte</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Grande serpente venenosa.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xenos_ + _odous_, _odontos_)</etym>
+</entry>
+
+
+<entry id="xenofobia" ast="1">
+<form>
+<orth>Xenofobia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+O mesmo que _xenofobismo_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xenofobismo" ast="1">
+<form>
+<orth>Xenofobismo</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Aversão ás pessôas e coisas estrangeiras.
+(Cp. _xenófobo_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xenófobo" ast="1">
+<form>
+<orth>Xenófobo</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Aquele que tem xenofobia.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xenos_ + _phobein_)</etym>
+</entry>
+
+
+<entry id="xenomania" ast="1">
+<form>
+<orth>Xenomania</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Paixão por tudo que é estrangeiro.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xenos_ + _mania_)</etym>
+</entry>
+
+
+<entry id="xenophobia" ast="1">
+<form>
+<orth>Xenophobia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+O mesmo que _xenophobismo_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xenophobismo" ast="1">
+<form>
+<orth>Xenophobismo</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Aversão ás pessôas e coisas estrangeiras.
+(Cp. _xenóphobo_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xenóphobo" ast="1">
+<form>
+<orth>Xenóphobo</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Aquelle que tem xenophobia.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xenos_ + _phobein_)</etym>
+</entry>
+
+
+<entry id="xeque:1" n="1" type="hom" ast="1">
+<form>
+<orth>Xeque</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Chefe de tríbo africana.
+</def>
+</sense>
+<etym ori="ár">(Do ár. _xeik_)</etym>
+</entry>
+
+
+<entry id="xeque:2" n="2" type="hom">
+<form>
+<orth>Xeque</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Incidente ao jôgo de xadrez, que consiste em atacar-se o rei ou fazer-se recuar a raínha, sob pena de se perder a peça.
+Successo parlamentar, que envolve perigo para o Ministério.
+Perigo; contratempo.
+(Do pers., por intermédio do fr. _échec_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xeque-mate" ast="1">
+<form>
+<orth>Xeque-mate</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+O mesmo que _xàmáte_.
+</def>
+</sense>
+<etym orig="Fr">(Fr. _échec et mat_, do pers. _xah_ + ár. _mat_)</etym>
+</entry>
+
+
+<entry id="xerafim">
+<form>
+<orth>Xerafim</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Moéda de prata, da Índia Portuguesa.
+</def>
+</sense>
+<etym ori="ár">(Do ár. _xarifi_)</etym>
+</entry>
+
+
+<entry id="xerântemo" ast="1">
+<form>
+<orth>Xerântemo</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Gênero de plantas, da fam. das compostas.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xeros_, sêco e _anthema_, florescência)</etym>
+</entry>
+
+
+<entry id="xerânthemo" ast="1">
+<form>
+<orth>Xerânthemo</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Gênero de plantas, da fam. das compostas.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xeros_, sêco e _anthema_, florescência)</etym>
+</entry>
+
+
+<entry id="xerasia">
+<form>
+<orth>Xerasia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Doença, que impede o crescimento dos cabellos e das sobrancelhas.
+</def>
+</sense>
+<etym orig="Gr">(Gr. _xerasia_)</etym>
+</entry>
+
+
+<entry id="xerém">
+<form>
+<orth>Xerém</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="style">Prov.</usg>
+<usg type="geo">alg.</usg>
+<def>
+Farinha de milho para papas.
+Papas de milho.
+</def>
+</sense>
+<sense ast="1">
+<def>
+Nome de um baile de roda.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xerentes" ast="1">
+<form>
+<orth>Xerentes</orth>
+</form>
+<sense>
+<gramGrp>m. pl.</gramGrp>
+<def>
+Índios, que vivem ao norte de Goiás, no Brasil.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xerez">
+<form>
+<orth>Xerez</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Espécie de uva tinta.
+Vinho muito estimado da Andaluzia.
+</def>
+</sense>
+<etym ori="nome">(De _Jerez_, n. p.)</etym>
+</entry>
+
+
+<entry id="xerga">
+<form>
+<orth>Xerga</orth>
+<phon extent="part">xêr</phon>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="style">Prov.</usg>
+<usg type="geo">trasm.</usg>
+<def>
+Tecido grosseiro, espécie de burel.
+</def>
+</sense>
+<sense>
+<usg type="geo">Bras</usg>
+<def>
+Espécie de almofada, que se põe por baixo da albarda das bêstas.
+</def>
+</sense>
+<sense>
+<usg type="style">Prov.</usg>
+<usg type="geo">trasm.</usg>
+<def>
+O mesmo que _enxêrga_.
+</def>
+</sense>
+<sense ast="1">
+<usg type="style">Prov.</usg>
+<usg type="geo">trasm.</usg>
+<def>
+Manta grosseira, em que se transporta a palha trilhada das eiras, e que se estende debaixo das oliveiras quando se vareja a azeitona.
+(Cast. _jerga_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xergão" ast="1">
+<form>
+<orth>Xergão</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="style">Prov.</usg>
+<usg type="geo">bras</usg>
+<def>
+O mesmo que _enxergão_.
+(Cast. _jergon_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xeri" ast="1">
+<form>
+<orth>Xeri</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="style">Ant.</usg>
+<def>
+Moéda de prata, em Dio.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xerife" ast="1">
+<form>
+<orth>Xerife</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+O mesmo que _xarifa_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xerimbabo" ast="1">
+<form>
+<orth>Xerimbabo</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="geo">Bras</usg>
+<def>
+Qualquer animal doméstico.
+Insecto.
+</def>
+</sense>
+<etym>(T. tupi)</etym>
+</entry>
+
+
+<entry id="xeringosa">
+<form>
+<orth>Xeringosa</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Nome, que se dá á cólica na Índia Portuguesa.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xeringueira">
+<form>
+<orth>Xeringueira</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+O mesmo que _seringueira_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xerodermia" ast="1">
+<form>
+<orth>Xerodermia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="dom">Med.</usg>
+<def>
+O mesmo que _ichthyose_.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xeros_ + _derma_)</etym>
+</entry>
+
+
+<entry id="xerofagia">
+<form>
+<orth>Xerofagia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Dieta, em que se não póde beber.
+</def>
+</sense>
+<sense ast="1">
+<def>
+Abstinência quaresmal dos primitivos Christãos.
+</def>
+</sense>
+<etym orig="Lat">(Lat. _xerophagia_)</etym>
+</entry>
+
+
+<entry id="xerófago" ast="1">
+<form>
+<orth>Xerófago</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Aquele que observa a xerofagia.
+Aquele que, entre os primitivos Cristãos, só se alimentava de pão e fruta sêca.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xeros_ + _phagein_)</etym>
+</entry>
+
+
+<entry id="xerófilo" ast="1">
+<form>
+<orth>Xerófilo</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="dom">Bot.</usg>
+<def>
+Diz-se das plantas, que se dão bem nos terrenos secos.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xeros_ + _philos_)</etym>
+</entry>
+
+
+<entry id="xerofitismo" ast="1">
+<form>
+<orth>Xerofitismo</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="dom">Bot.</usg>
+<def>
+Estado ou qualidade da vegetação xerófita.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xerofórmio" ast="1">
+<form>
+<orth>Xerofórmio</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Medicamento, que tem as mesmas applicações que o iodofórmio.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xeroftalmia">
+<form>
+<orth>Xeroftalmia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Ofthalmia sêca, isto é, sem secreção lacrimal.
+</def>
+</sense>
+<etym orig="Gr">(Gr. _xerophthalmia_)</etym>
+</entry>
+
+
+<entry id="xerografia" ast="1">
+<form>
+<orth>Xerografia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Parte da Geografia, que se occupa da parte sêca do globo.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xeros_ + _graphein_)</etym>
+</entry>
+
+
+<entry id="xerográfico" ast="1">
+<form>
+<orth>Xerográfico</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+Relativo á xerografia.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xerographia" ast="1">
+<form>
+<orth>Xerographia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Parte da Geographia, que se occupa da parte sêca do globo.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xeros_ + _graphein_)</etym>
+</entry>
+
+
+<entry id="xerográphico" ast="1">
+<form>
+<orth>Xerográphico</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+Relativo á xerographia.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xerophagia">
+<form>
+<orth>Xerophagia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Dieta, em que se não póde beber.
+</def>
+</sense>
+<sense ast="1">
+<def>
+Abstinência quaresmal dos primitivos Christãos.
+</def>
+</sense>
+<etym orig="Lat">(Lat. _xerophagia_)</etym>
+</entry>
+
+
+<entry id="xeróphago" ast="1">
+<form>
+<orth>Xeróphago</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Aquelle que observa a xerophagia.
+Aquelle que, entre os primitivos Christãos, só se alimentava de pão e fruta sêca.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xeros_ + _phagein_)</etym>
+</entry>
+
+
+<entry id="xeróphilo" ast="1">
+<form>
+<orth>Xeróphilo</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="dom">Bot.</usg>
+<def>
+Diz-se das plantas, que se dão bem nos terrenos secos.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xeros_ + _philos_)</etym>
+</entry>
+
+
+<entry id="xeróphito" ast="1">
+<form>
+<orth>Xeróphito</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="dom">Bot.</usg>
+<def>
+Diz-se da vegetação, própria de lugares secos.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xeros_ + _phuton_)</etym>
+</entry>
+
+
+<entry id="xerophthalmia">
+<form>
+<orth>Xerophthalmia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Ophthalmia sêca, isto é, sem secreção lacrimal.
+</def>
+</sense>
+<etym orig="Gr">(Gr. _xerophthalmia_)</etym>
+</entry>
+
+
+<entry id="xerophytismo" ast="1">
+<form>
+<orth>Xerophytismo</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="dom">Bot.</usg>
+<def>
+Estado ou qualidade da vegetação xeróphyta.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xerose" ast="1">
+<form>
+<orth>Xerose</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+O mesmo que _xerophthalmia_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xerque" ast="1">
+<form>
+<orth>Xerque</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="style">Ant.</usg>
+<def>
+Feito á maneira oriental.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xerume" ast="1">
+<form>
+<orth>Xerume</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Erva, de que se servem os indígenas de Manica, para fumar.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xerva">
+<form>
+<orth>Xerva</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Variedade de linho.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xeta" ast="1">
+<form>
+<orth>Xeta</orth>
+<phon extent="part">xê</phon>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="geo">Bras</usg>
+<def>
+Beijo, atirado de longe com os dedos, por galanteio.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xetá!" ast="1">
+<form>
+<orth>Xetá!</orth>
+</form>
+<sense>
+<gramGrp>interj.</gramGrp>
+<usg type="style">Prov.</usg>
+<usg type="geo">trasm.</usg>
+<def>
+O mesmo que _chó_!
+</def>
+</sense>
+</entry>
+
+
+<entry id="xéu" ast="1">
+<form>
+<orth>Xéu</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="style">Prov.</usg>
+<usg type="geo">trasm.</usg>
+<def>
+Pessôa ordinária, desprezível.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xeura">
+<form>
+<orth>Xeura</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="dom">Náut.</usg>
+<def>
+Escantilhão.
+Inclinação da face dos madeiros de um navio, para nella se assentar o costado.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xèxé">
+<form>
+<orth>Xèxé</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Mascarado, que, no Carnaval, representa um velho ridículo, vestido de casaca de sêda, calção e meia, e armado de uma grande faca de pau.
+</def>
+</sense>
+<sense ast="1">
+<usg type="style">Ant.</usg>
+<usg type="style">Pop.</usg>
+<def>
+Pateta, idiota.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xexéu">
+<form>
+<orth>Xexéu</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Ave brasileira.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xiba" ast="1">
+<form>
+<orth>Xiba</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="geo">Bras. do Rio</usg>
+<def>
+Espécie de batuque.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xibé" ast="1">
+<form>
+<orth>Xibé</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="geo">Bras</usg>
+<def>
+Bebida, o mesmo que _jacuba_.
+Forma preferível a _chibé_.
+(V. _chibé_^1)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xicá" ast="1">
+<form>
+<orth>Xicá</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="geo">Bras</usg>
+<def>
+Árvore silvestre.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xicaca:1" n="1" type="hom" ast="1">
+<form>
+<orth>Xicaca</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="geo">Bras</usg>
+<def>
+Pequeno cesto com tampa.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xicaca:2" n="2" type="hom" ast="1">
+<form>
+<orth>Xicaca</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="geo">T. de Angola</usg>
+<def>
+Imposto aduaneiro; alcavala.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xifarote" ast="1">
+<form>
+<orth>Xifarote</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+O mesmo ou melhór que _chifarote_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xífia" ast="1">
+<form>
+<orth>Xífia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Grande peixe-espada do Atlântico e do Mediterrâneo.
+</def>
+</sense>
+<etym orig="Gr">(Gr. _xiphias_)</etym>
+</entry>
+
+
+<entry id="xífias" ast="1">
+<form>
+<orth>Xífias</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Grande peixe-espada do Atlântico e do Mediterrâneo.
+</def>
+</sense>
+<etym orig="Gr">(Gr. _xiphias_)</etym>
+</entry>
+
+
+<entry id="xífio" ast="1">
+<form>
+<orth>Xífio</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Planta medicinal emoliente.
+(Cp. gr. _xíphos_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xifisternal" ast="1">
+<form>
+<orth>Xifisternal</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+Relativo ao xifisterno.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xifisterno" ast="1">
+<form>
+<orth>Xifisterno</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+O mesmo que _metasterno_.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xiphos_, espada e port. _esterno_)</etym>
+</entry>
+
+
+<entry id="xifódimo" ast="1">
+<form>
+<orth>Xifódimo</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="dom">Terat.</usg>
+<def>
+Diz-se do monstro, composto de dois corpos distintos na parte superior, mas cujo tronco se confunde na parte inferior.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xifóide" ast="1">
+<form>
+<orth>Xifóide</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+O mesmo que _xifoídeo_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xifoídeo">
+<form>
+<orth>Xifoídeo</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="dom">Anat.</usg>
+<def>
+Diz-se do apêndice alongado e cartilaginoso, que termina inferiormente o esterno.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xiphoides_)</etym>
+</entry>
+
+
+<entry id="xifoidiano" ast="1">
+<form>
+<orth>Xifoidiano</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="dom">Anat.</usg>
+<def>
+Relativo ao apêndice xifóide.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xifu" ast="1">
+<form>
+<orth>Xifu</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Espécie de meirinho ou esbirro chinês.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xiitas" ast="1">
+<form>
+<orth>Xiitas</orth>
+</form>
+<sense>
+<gramGrp>m. pl.</gramGrp>
+<def>
+Seita religiosa, que adaptou ao Islamismo as antigas crenças da Pérsia.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xilindró">
+<form>
+<orth>Xilindró</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="style">Chul.</usg>
+<def>
+Outra fórma de _chilindró_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xilréu" ast="1">
+<form>
+<orth>Xilréu</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="dom">Pesc.</usg>
+<def>
+Pequena rêde triangular, usada no Algarve, para a pesca de lulas e chocos.
+</def>
+</sense>
+</entry>
+
+
+<entry id="ximarrão" ast="1">
+<form>
+<orth>Ximarrão</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="geo">Bras</usg>
+<def>
+Diz-se do mate sem açúcar.
+</def>
+</sense>
+</entry>
+
+
+<entry id="ximbaúva">
+<form>
+<orth>Ximbaúva</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Espécie de acácia.
+</def>
+</sense>
+</entry>
+
+
+<entry id="ximbeque" ast="1">
+<form>
+<orth>Ximbeque</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Habitação entre os Mussorongos.
+</def>
+</sense>
+</entry>
+
+
+<entry id="ximbuás" ast="1">
+<form>
+<orth>Ximbuás</orth>
+</form>
+<sense>
+<gramGrp>m. pl.</gramGrp>
+<def>
+Nação de Índios do Brasil, em Mato-Grosso.
+</def>
+</sense>
+</entry>
+
+
+<entry id="ximburu" ast="1">
+<form>
+<orth>Ximburu</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="geo">Bras</usg>
+<def>
+Peixe fluvial.
+</def>
+</sense>
+</entry>
+
+
+<entry id="ximenézia" ast="1">
+<form>
+<orth>Ximenézia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de plantas mexicanas.
+</def>
+</sense>
+<etym ori="nome">(De _Ximenez_, n. p.)</etym>
+</entry>
+
+
+<entry id="xinga" ast="1">
+<form>
+<orth>Xinga</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Trombeta de guerra, na Índia Portuguesa.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xingamento" ast="1">
+<form>
+<orth>Xingamento</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Acto de xingar.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xingar" ast="1">
+<form>
+<orth>Xingar</orth>
+</form>
+<sense>
+<gramGrp>v. t.</gramGrp>
+<usg type="geo">Bras</usg>
+<def>
+Insultar com palavras.
+</def>
+</sense>
+<sense>
+<gramGrp>V. i.</gramGrp>
+<def>
+Zombar.
+(Do quimb.)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xinxarel" ast="1">
+<form>
+<orth>Xinxarel</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Peça de madeira, que se prega no tecto, entre dois barrotes, para fixar a suspensão de um candeeiro.
+Peça de madeira, que se colloca diagonalmente sôbre o vigamento, para assentamento do parquete.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xinxilha" ast="1">
+<form>
+<orth>Xinxilha</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="style">Ant.</usg>
+<usg type="style">Pop.</usg>
+<def>
+Homem desprezível, um joão-ninguém.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xíphia" ast="1">
+<form>
+<orth>Xíphia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Grande peixe-espada do Atlântico e do Mediterrâneo.
+</def>
+</sense>
+<etym orig="Gr">(Gr. _xiphias_)</etym>
+</entry>
+
+
+<entry id="xíphias" ast="1">
+<form>
+<orth>Xíphias</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Grande peixe-espada do Atlântico e do Mediterrâneo.
+</def>
+</sense>
+<etym orig="Gr">(Gr. _xiphias_)</etym>
+</entry>
+
+
+<entry id="xíphio" ast="1">
+<form>
+<orth>Xíphio</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Planta medicinal emolliente.
+(Cp. gr. _xíphos_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xiphisternal" ast="1">
+<form>
+<orth>Xiphisternal</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+Relativo ao xiphisterno.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xiphisterno" ast="1">
+<form>
+<orth>Xiphisterno</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+O mesmo que _metasterno_.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xiphos_, espada e port. _esterno_)</etym>
+</entry>
+
+
+<entry id="xiphódymo" ast="1">
+<form>
+<orth>Xiphódymo</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="dom">Terat.</usg>
+<def>
+Diz-se do monstro, composto de dois corpos distintos na parte superior, mas cujo tronco se confunde na parte inferior.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xiphóide" ast="1">
+<form>
+<orth>Xiphóide</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+O mesmo que _xiphoídeo_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xiphoídeo">
+<form>
+<orth>Xiphoídeo</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="dom">Anat.</usg>
+<def>
+Diz-se do appêndice alongado e cartilaginoso, que termina inferiormente o esterno.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xiphoides_)</etym>
+</entry>
+
+
+<entry id="xiphoidiano" ast="1">
+<form>
+<orth>Xiphoidiano</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="dom">Anat.</usg>
+<def>
+Relativo ao appêndice xiphóide.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xifofilo" ast="1">
+<form>
+<orth>Xifofilo</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="dom">Bot.</usg>
+<def>
+Que tem fôlhas ensiformes.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xiphos_ + _phullon_)</etym>
+</entry>
+
+
+<entry id="xifopagia" ast="1">
+<form>
+<orth>Xifopagia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Qualidade de xifópago.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xifópago" ast="1">
+<form>
+<orth>Xifópago</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="dom">Terat.</usg>
+<def>
+Diz-se do monstro, resultante da união de dois indivíduos, desde a parte inferior do esterno até ao umbigo.--Estavam neste caso os celebrados irmãos siameses.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xiphos_ + _pagein_)</etym>
+</entry>
+
+
+<entry id="xilarmónica" ast="1">
+<form>
+<orth>Xilarmónica</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+O mesmo que _xilarmónico_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xilarmónico" ast="1">
+<form>
+<orth>Xilarmónico</orth>
+</form>
+<sense><def>Instrumento músico, semelhante ao eufónio.
+Espécie de marimbas, com lâminas de madeira.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xilena" ast="1">
+<form>
+<orth>Xilena</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de insectos lepidópteros nocturnos.
+</def>
+</sense>
+<sense>
+<usg type="dom">Chím.</usg>
+<def>
+Variedade de carboneto de hidrogênio líquido.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_)</etym>
+</entry>
+
+
+<entry id="xileno" ast="1">
+<form>
+<orth>Xileno</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="dom">Chím.</usg>
+<def>
+Um dos carbonetos do grupo benzênico.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_)</etym>
+</entry>
+
+
+<entry id="xilharmónica" ast="1">
+<form>
+<orth>Xilharmónica</orth>
+<phon extent="part">lar</phon>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+O mesmo que _xilharmónico_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xilharmónico" ast="1">
+<form>
+<orth>Xilharmónico</orth>
+<phon extent="part">lar</phon>
+</form>
+<sense><def>Instrumento músico, semelhante ao euphónio.
+Espécie de marimbas, com lâminas de madeira.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xilite">
+<form>
+<orth>Xilite</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Producto da destilação do espírito de madeira.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_)</etym>
+</entry>
+
+
+<entry id="xilo...">
+<form>
+<orth>Xilo...</orth>
+</form>
+<sense>
+<gramGrp>pref.</gramGrp>
+<def>
+(designativo de _madeira_)
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_)</etym>
+</entry>
+
+
+<entry id="xilo" ast="1">
+<form>
+<orth>Xilo</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+A planta do algodão; algodoeiro.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_)</etym>
+</entry>
+
+
+<entry id="xilobálsamo" ast="1">
+<form>
+<orth>Xilobálsamo</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+O mesmo que _balsameiro_.
+</def>
+</sense>
+<etym orig="Lat">(Lat. _xylobalsamum_)</etym>
+</entry>
+
+
+<entry id="xilocarpo" ast="1">
+<form>
+<orth>Xilocarpo</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="dom">Bot.</usg>
+<def>
+Diz-se das árvores de frutos duros ou lenhosos.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_ + _karpos_)</etym>
+</entry>
+
+
+<entry id="xilócopo" ast="1">
+<form>
+<orth>Xilócopo</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="dom">Zool.</usg>
+<def>
+Que córta a madeira, que pica paus, que fura os troncos: _há abelhas xilócopas_.
+</def>
+</sense>
+<etym orig="Gr">(Gr. _xulokopos_)</etym>
+</entry>
+
+
+<entry id="xilódia" ast="1">
+<form>
+<orth>Xilódia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de frutos lenhosos, como a avelan.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulodes_)</etym>
+</entry>
+
+
+<entry id="xilogênio" ast="1">
+<form>
+<orth>Xilogênio</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="dom">Chím.</usg>
+<def>
+Substância vegetal, que se encontra especialmente na parede primitiva das céllulas das plantas.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_ + _genos_)</etym>
+</entry>
+
+
+<entry id="xiloglifia" ast="1">
+<form>
+<orth>Xiloglifia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Arte de esculpir em madeira; arte de gravar caracteres em madeira.
+(Cp. _xilóglifo_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xilóglífico" ast="1">
+<form>
+<orth>Xilóglífico</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+Relativo á xiloglifia.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xilóglifo" ast="1">
+<form>
+<orth>Xilóglifo</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Aquele que exerce a xiloglifia.
+Aquele que faz letras com ornatos, para livros, ou grandes letras, para cartazes.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_ + _gluphos_)</etym>
+</entry>
+
+
+<entry id="xilofagia">
+<form>
+<orth>Xilofagia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Acto de roer a madeira.
+Propriedade de xilófago.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xilografia">
+<form>
+<orth>Xilografia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Arte de gravar em madeira.
+</def>
+</sense>
+<etym>(De _xilógrafo_)</etym>
+</entry>
+
+
+<entry id="xilográfico">
+<form>
+<orth>Xilográfico</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+Relativo á xilografia.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xilógrafo">
+<form>
+<orth>Xilógrafo</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Aquele que grava em madeira.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_ + _graphein_)</etym>
+</entry>
+
+
+<entry id="xilóide" ast="1">
+<form>
+<orth>Xilóide</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+Relativo a madeira.
+Proveniente de um corpo lenhoso.
+</def>
+</sense>
+<etym orig="Gr">(Gr. _xuloides_)</etym>
+</entry>
+
+
+<entry id="xiloídico" ast="1">
+<form>
+<orth>Xiloídico</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+Diz-se de um suposto tipo de arquitectura em madeira, donde teria procedido a arquitectura gótica.
+(Cp. _xilóide_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xiloidina" ast="1">
+<form>
+<orth>Xiloidina</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="dom">Chím.</usg>
+<def>
+Matéria muito combustível, que se obtém pela acção do ácido nítrico sôbre os princípios neutros vegetaes.
+</def>
+</sense>
+<etym>(De _xilóide_)</etym>
+</entry>
+
+
+<entry id="xilólatra" ast="1">
+<form>
+<orth>Xilólatra</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Aquele que adora os ídolos de madeira.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulolatres_)</etym>
+</entry>
+
+
+<entry id="xilolatria" ast="1">
+<form>
+<orth>Xilolatria</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Qualidade de xilólatra.
+Adoração dos ídolos de madeira.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xilólito">
+<form>
+<orth>Xilólito</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Madeira fóssil.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_ + _lithos_)</etym>
+</entry>
+
+
+<entry id="xilologia" ast="1">
+<form>
+<orth>Xilologia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Tratado ou história das madeiras.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_ + _logos_)</etym>
+</entry>
+
+
+<entry id="xilológico" ast="1">
+<form>
+<orth>Xilológico</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+Relativo á xilologia.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xilólogo" ast="1">
+<form>
+<orth>Xilólogo</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Aquele que é perito em xilologia.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xiloma" ast="1">
+<form>
+<orth>Xiloma</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Gênero de cogumelos lenhosos.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_ + _omos_)</etym>
+</entry>
+
+
+<entry id="xilomancia" ast="1">
+<form>
+<orth>Xilomancia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Suposta arte de adivinhar, por meio da disposição dos pauzinhos secos, que se encontram pelo caminho.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_ + _manteia_)</etym>
+</entry>
+
+
+<entry id="xilómice" ast="1">
+<form>
+<orth>Xilómice</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="dom">Bot.</usg>
+<def>
+Diz-se dos cogumelos, que crescem sôbre a madeira ou nas árvores.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_ + _mukes_)</etym>
+</entry>
+
+
+<entry id="xílon" ast="1">
+<form>
+<orth>Xílon</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="dom">Chím.</usg>
+<def>
+Celulose da madeira ou dos invólucros dos frutos duros.
+</def>
+</sense>
+<etym orig="Gr">(Gr. _xulon_)</etym>
+</entry>
+
+
+<entry id="xiphopagia" ast="1">
+<form>
+<orth>Xiphopagia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Qualidade de xiphópago.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xiphtópago" ast="1">
+<form>
+<orth>Xiphtópago</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="dom">Terat.</usg>
+<def>
+Diz-se do monstro, resultante da união de dois indivíduos, desde a parte inferior do esterno até ao umbigo.--Estavam neste caso os celebrados irmãos siameses.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xiphos_ + _pagein_)</etym>
+</entry>
+
+
+<entry id="xiphophyllo" ast="1">
+<form>
+<orth>Xiphophyllo</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="dom">Bot.</usg>
+<def>
+Que tem fôlhas ensiformes.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xiphos_ + _phullon_)</etym>
+</entry>
+
+
+<entry id="xipo" ast="1">
+<form>
+<orth>Xipo</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Cinto de coiro, de que os Lundeses suspendem os panos, com que cobrem as partes genitaes. Cf. H. Carvalho, _Exped. ao Muat._
+</def>
+</sense>
+</entry>
+
+
+<entry id="xique-xique">
+<form>
+<orth>Xique-xique</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Planta leguminosa do Brasil.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xiquir" ast="1">
+<form>
+<orth>Xiquir</orth>
+</form>
+<sense>
+<gramGrp>adv.</gramGrp>
+<usg type="style">Ant.</usg>
+<usg type="style">Pop.</usg>
+<def>
+O mesmo que _sequer_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xira:1" n="1" type="hom" ast="1">
+<form>
+<orth>Xira</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="style">Ant.</usg>
+<def>
+O mesmo que _xara_^1, seta.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xira:2" n="2" type="hom" ast="1">
+<form>
+<orth>Xira</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="style">Ant.</usg>
+<def>
+O mesmo que _cira_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xira:3" n="3" type="hom" ast="1">
+<form>
+<orth>Xira</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="style">Ant.</usg>
+<def>
+Alimentação; pasto.
+(Cp. _bona-chira_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xiraz:1" n="1" type="hom" ast="1">
+<form>
+<orth>Xiraz</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="style">Ant.</usg>
+<def>
+Leite coalhado.
+(Do ár.)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xiricaá" ast="1">
+<form>
+<orth>Xiricaá</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="geo">Bras</usg>
+<def>
+Planta medicinal, das regiões do Amazonas.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xiriquanos" ast="1">
+<form>
+<orth>Xiriquanos</orth>
+</form>
+<sense>
+<gramGrp>m. pl.</gramGrp>
+<usg type="geo">Bras</usg>
+<def>
+Tríbo de aborigenes de Mato-Grosso.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xiriubeira">
+<form>
+<orth>Xiriubeira</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Planta convolvulácea do Brasil.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xiró">
+<form>
+<orth>Xiró</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="geo">Bras</usg>
+<def>
+Caldo de arroz.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xis" ast="1">
+<form>
+<orth>Xis</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="style">Pop.</usg>
+<def>
+Moéda de déz reis: _não tenho uma de xis_.
+(Da letra _X_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xisgaraviz" ast="1">
+<form>
+<orth>Xisgaraviz</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="style">Ant.</usg>
+<def>
+Aquelle ou aquillo que se intromete, que remexe: <cit type="example"><quote>«_a dúvida de um amante vem a ser o ciúme..., o xisgaraviz das memórias, o contágio das suspeitas..._»</quote></cit> _Anat. Joc._, I, 203.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xisto:1" n="1" type="hom">
+<form>
+<orth>Xisto</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Mineral friável, formado especialmente de sílica e argilla.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _skhistos_)</etym>
+</entry>
+
+
+<entry id="xistocarpo">
+<form>
+<orth>Xistocarpo</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+Diz-se dos frutos, que se abrem, fendendo-se.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _skhistos_ + _karpos_)</etym>
+</entry>
+
+
+<entry id="xistóide" ast="1">
+<form>
+<orth>Xistóide</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="dom">Zool.</usg>
+<def>
+Diz-se das rochas, em que apenas há vestígios ou apparências de textura xistosa.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _skhistos_ + _eidos_)</etym>
+</entry>
+
+
+<entry id="xistosidade" ast="1">
+<form>
+<orth>Xistosidade</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Caracter especial das rochas xistosas.
+</def>
+</sense>
+<etym>(De _xistoso_)</etym>
+</entry>
+
+
+<entry id="xistoso" ast="1">
+<form>
+<orth>Xistoso</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+Que é da natureza do xisto.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xixan" ast="1">
+<form>
+<orth>Xixan</orth>
+</form>
+<sense>
+<gramGrp>M.</gramGrp>
+<usg type="geo">Bras. do N</usg>
+<def>
+Árvore fructífera.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xixi">
+<form>
+<orth>Xixi</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Planta leguminosa do Brasil.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xixica" ast="1">
+<form>
+<orth>Xixica</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="geo">Bras</usg>
+<def>
+Gorgeta; propina.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xixilado" ast="1">
+<form>
+<orth>Xixilado</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="geo">Bras. da Baía</usg>
+<def>
+Descarado; sem vergonha. Cf. _Jorn.-do-Comm._, do Rio, de 25-VII-902.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xixuão" ast="1">
+<form>
+<orth>Xixuão</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="style">Ant.</usg>
+<def>
+Espécie de pano moirisco. Cf. L. Sousa, _Ann. de D. João III_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xizinho" ast="1">
+<form>
+<orth>Xizinho</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="geo">T. de Lanhoso</usg>
+<def>
+Pouca coisa; bocadinho.
+</def>
+</sense>
+<etym>(De _xis_?)</etym>
+</entry>
+
+
+<entry id="xiziro" ast="1">
+<form>
+<orth>Xiziro</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="style">Ant.</usg>
+<def>
+Substância encarnada, que servia especialmente para com ella se escreverem os títulos dos livros e capítulos.
+(Por _sirizo_. Cp. b. lat. _siricum_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xó!" ast="1">
+<form>
+<orth>Xó!</orth>
+</form>
+<sense>
+<gramGrp>interj.</gramGrp>
+<def>
+(Fórma exacta, em vez de _chó_)
+(Cp. cast. _so_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xô!" ast="1">
+<form>
+<orth>Xô!</orth>
+</form>
+<sense>
+<gramGrp>interj.</gramGrp>
+<def>
+(que serve para enxotar gallinhas ou outras aves); o mesmo que _xote_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xocar" ast="1">
+<form>
+<orth>Xocar</orth>
+</form>
+<sense>
+<gramGrp>v. i.</gramGrp>
+<usg type="style">Prov.</usg>
+<usg type="geo">trasm.</usg>
+<def>
+Enxotar gallinhas ou outras aves.
+</def>
+</sense>
+<etym>(De _xô_)</etym>
+</entry>
+
+
+<entry id="xofrango">
+<form>
+<orth>Xofrango</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Espécie de águia pequena.
+</def>
+</sense>
+<etym ori="lat">(Do lat. _ossifragus_?)</etym>
+</entry>
+
+
+<entry id="xolra" ast="1">
+<form>
+<orth>Xolra</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="dom">Pesc.</usg>
+<def>
+Antiga rêde, usada na pesca costeira do Algarve.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xomanas" ast="1">
+<form>
+<orth>Xomanas</orth>
+</form>
+<sense>
+<gramGrp>m. pl.</gramGrp>
+<def>
+Índios selvagens das margens do Japurá, no Brasil.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xona" ast="1">
+<form>
+<orth>Xona</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="style">Gír.</usg>
+<def>
+O mesmo que _noite_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xòninhas" ast="1">
+<form>
+<orth>Xòninhas</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="style">Prov.</usg>
+<usg type="geo">minh.</usg>
+<def>
+Indivíduo acanhado, mollangueirão.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xorca" ast="1">
+<form>
+<orth>Xorca</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+O mesmo que _axorca_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xorcas" ast="1">
+<form>
+<orth>Xorcas</orth>
+</form>
+<sense>
+<gramGrp>f. pl.</gramGrp>
+<usg type="style">Prov.</usg>
+<def>
+Sapatos grandes, acalcanhados e mal feitos.
+</def>
+</sense>
+<etym>(T. onom., do som que as xorcas produzem quando se anda com ellas?)</etym>
+</entry>
+
+
+<entry id="xordo" ast="1">
+<form>
+<orth>Xordo</orth>
+<phon extent="part">xôr</phon>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="style">Prov.</usg>
+<usg type="geo">trasm.</usg>
+<def>
+Manco e surdo.
+(Cp. _surdo_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xotar" ast="1">
+<form>
+<orth>Xotar</orth>
+</form>
+<sense>
+<gramGrp>v. t.</gramGrp>
+<usg type="style">Prov.</usg>
+<usg type="geo">trasm.</usg>
+<def>
+O mesmo que _enxotar_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xote:1" n="1" type="hom" ast="1">
+<form>
+<orth>Xote</orth>
+</form>
+<sense>
+<gramGrp>interj.</gramGrp>
+<def>
+O mesmo ou melhór que _chote_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xote:2" n="2" type="hom" ast="1">
+<form>
+<orth>Xote</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="geo">T. de Leiria</usg>
+<def>
+O mesmo que _caixote_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xote!">
+<form>
+<orth>Xote!</orth>
+</form>
+<sense>
+<gramGrp>interj.</gramGrp>
+<def>
+(para afugentar aves)
+</def>
+</sense>
+<etym>(T. onom.)</etym>
+</entry>
+
+
+<entry id="xô-xô!" ast="1">
+<form>
+<orth>Xô-Xô!</orth>
+</form>
+<sense>
+<gramGrp>interj.</gramGrp>
+<def>
+Voz, com que se enxotam animaes, mormente as aves; o mesmo que _xô_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="x. p. t. o.">
+<form>
+<orth>X. P. T. O.</orth>
+</form>
+<sense><def>Expressão burlesca, para designar qualidade excellente, magnífica.
+</def>
+</sense>
+<etym>(De uma abrev. medieval da palavra _Christo_)</etym>
+</entry>
+
+
+<entry id="xrámana" ast="1">
+<form>
+<orth>Xrámana</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Asceta mendicante, entre os Índios.
+Asceta budista.
+(Do sânscr.)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xrámane" ast="1">
+<form>
+<orth>Xrámane</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Asceta mendicante, entre os Índios.
+Asceta budista.
+(Do sânscr.)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xuarézia" ast="1">
+<form>
+<orth>Xuarézia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de plantas escrofularíneas.
+</def>
+</sense>
+<etym ori="nome">(De _Xuarez_, n. p.)</etym>
+</entry>
+
+
+<entry id="xucro" ast="1">
+<form>
+<orth>Xucro</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="geo">Bras</usg>
+<def>
+Bravo, ou ainda não domesticado.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xudairo" ast="1">
+<form>
+<orth>Xudairo</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="style">Prov.</usg>
+<usg type="geo">trasm.</usg>
+<def>
+Mulhér desprezível, rota, esfrangalhada.
+(Cp. _sudário_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xupé" ast="1">
+<form>
+<orth>Xupé</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="geo">Bras</usg>
+<def>
+Espécie de abelha negra.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xurdir" ast="1">
+<form>
+<orth>Xurdir</orth>
+</form>
+<sense>
+<gramGrp>v. i.</gramGrp>
+<usg type="style">Prov.</usg>
+<usg type="geo">trasm.</usg>
+<def>
+Lutar pela vida, moirejar.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xurreira" ast="1">
+<form>
+<orth>Xurreira</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Buraco ou lugar, por onde entra o enxurro.
+(Por _enxurreira_, de _enxurro_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xurumbambos" ast="1">
+<form>
+<orth>Xurumbambos</orth>
+</form>
+<sense>
+<gramGrp>m. pl.</gramGrp>
+<usg type="geo">Bras</usg>
+<def>
+Cacaréus.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xuxiapom" ast="1">
+<form>
+<orth>Xuxiapom</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Residência do Soberano, entre os antigos Chineses. Cf. _Peregrinação_, CXXI.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xuxo" ast="1">
+<form>
+<orth>Xuxo</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Peixe de Portugal.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xylena" ast="1">
+<form>
+<orth>Xylena</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de insectos lepidópteros nocturnos.
+</def>
+</sense>
+<sense>
+<usg type="dom">Chím.</usg>
+<def>
+Variedade de carboneto de hydrogênio líquido.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_)</etym>
+</entry>
+
+
+<entry id="xyleno" ast="1">
+<form>
+<orth>Xyleno</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="dom">Chím.</usg>
+<def>
+Um dos carbonetos do grupo benzênico.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_)</etym>
+</entry>
+
+
+<entry id="xylite">
+<form>
+<orth>Xylite</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Producto da destillação do espírito de madeira.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_)</etym>
+</entry>
+
+
+<entry id="xylo...">
+<form>
+<orth>Xylo...</orth>
+</form>
+<sense>
+<gramGrp>pref.</gramGrp>
+<def>
+(designativo de _madeira_)
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_)</etym>
+</entry>
+
+
+<entry id="xylo" ast="1">
+<form>
+<orth>Xylo</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+A planta do algodão; algodoeiro.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_)</etym>
+</entry>
+
+
+<entry id="xylobálsamo" ast="1">
+<form>
+<orth>Xylobálsamo</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+O mesmo que _balsameiro_.
+</def>
+</sense>
+<etym orig="Lat">(Lat. _xylobalsamum_)</etym>
+</entry>
+
+
+<entry id="xylocarpo" ast="1">
+<form>
+<orth>Xylocarpo</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="dom">Bot.</usg>
+<def>
+Diz-se das árvores de frutos duros ou lenhosos.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_ + _karpos_)</etym>
+</entry>
+
+
+<entry id="xylócopo" ast="1">
+<form>
+<orth>Xylócopo</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="dom">Zool.</usg>
+<def>
+Que córta a madeira, que pica paus, que fura os troncos: _há abelhas xylócopas_.
+</def>
+</sense>
+<etym orig="Gr">(Gr. _xulokopos_)</etym>
+</entry>
+
+
+<entry id="xylódia" ast="1">
+<form>
+<orth>Xylódia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de frutos lenhosos, como a avelan.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulodes_)</etym>
+</entry>
+
+
+<entry id="xylogênio" ast="1">
+<form>
+<orth>Xylogênio</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="dom">Chím.</usg>
+<def>
+Substância vegetal, que se encontra especialmente na parede primitiva das céllulas das plantas.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_ + _genos_)</etym>
+</entry>
+
+
+<entry id="xyloglyphia" ast="1">
+<form>
+<orth>Xyloglyphia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Arte de esculpir em madeira; arte de gravar caracteres em madeira.
+(Cp. _xylóglypho_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xyloglýphico" ast="1">
+<form>
+<orth>Xyloglýphico</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+Relativo á xyloglyphia.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xylóglypho" ast="1">
+<form>
+<orth>Xylóglypho</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Aquelle que exerce a xyloglyphia.
+Aquelle que faz letras com ornatos, para livros, ou grandes letras, para cartazes.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_ + _gluphos_)</etym>
+</entry>
+
+
+<entry id="xylographia">
+<form>
+<orth>Xylographia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Arte de gravar em madeira.
+</def>
+</sense>
+<etym>(De _xylógrapho_)</etym>
+</entry>
+
+
+<entry id="xylográphico">
+<form>
+<orth>Xylográphico</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+Relativo á xylographia.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xylógrapho">
+<form>
+<orth>Xylógrapho</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Aquelle que grava em madeira.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_ + _graphein_)</etym>
+</entry>
+
+
+<entry id="xylóide" ast="1">
+<form>
+<orth>Xylóide</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+Relativo a madeira.
+Proveniente de um corpo lenhoso.
+</def>
+</sense>
+<etym orig="Gr">(Gr. _xuloides_)</etym>
+</entry>
+
+
+<entry id="xyloídico" ast="1">
+<form>
+<orth>Xyloídico</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+Diz-se de um supposto typo de architectura em madeira, donde teria procedido a architectura gótica.
+(Cp. _xylóide_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xyloidina" ast="1">
+<form>
+<orth>Xyloidina</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<usg type="dom">Chím.</usg>
+<def>
+Matéria muito combustível, que se obtém pela acção do ácido nítrico sôbre os princípios neutros vegetaes.
+</def>
+</sense>
+<etym>(De _xylóide_)</etym>
+</entry>
+
+
+<entry id="xylólatra" ast="1">
+<form>
+<orth>Xylólatra</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Aquelle que adora os ídolos de madeira.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulolatres_)</etym>
+</entry>
+
+
+<entry id="xylolatria" ast="1">
+<form>
+<orth>Xylolatria</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Qualidade de xylólatra.
+Adoração dos ídolos de madeira.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xylólitho">
+<form>
+<orth>Xylólitho</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Madeira fóssil.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_ + _lithos_)</etym>
+</entry>
+
+
+<entry id="xylologia" ast="1">
+<form>
+<orth>Xylologia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Tratado ou história das madeiras.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_ + _logos_)</etym>
+</entry>
+
+
+<entry id="xylológico" ast="1">
+<form>
+<orth>Xylológico</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+Relativo á xylologia.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xylólogo" ast="1">
+<form>
+<orth>Xylólogo</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Aquelle que é perito em xylologia.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xyloma" ast="1">
+<form>
+<orth>Xyloma</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Gênero de cogumelos lenhosos.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_ + _omos_)</etym>
+</entry>
+
+
+<entry id="xylomancia" ast="1">
+<form>
+<orth>Xylomancia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Supposta arte de adivinhar, por meio da disposição dos pauzinhos secos, que se encontram pelo caminho.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_ + _manteia_)</etym>
+</entry>
+
+
+<entry id="xylómice" ast="1">
+<form>
+<orth>Xylómice</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<usg type="dom">Bot.</usg>
+<def>
+Diz-se dos cogumelos, que crescem sôbre a madeira ou nas árvores.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_ + _mukes_)</etym>
+</entry>
+
+
+<entry id="xýlon" ast="1">
+<form>
+<orth>Xýlon</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="dom">Chím.</usg>
+<def>
+Cellulose da madeira ou dos invólucros dos frutos duros.
+</def>
+</sense>
+<etym orig="Gr">(Gr. _xulon_)</etym>
+</entry>
+
+
+<entry id="xylophagia">
+<form>
+<orth>Xylophagia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Acto de roer a madeira.
+Propriedade de xylóphago.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xilofágico">
+<form>
+<orth>Xilofágico</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+Relativo á xilofagia.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xilófago">
+<form>
+<orth>Xilófago</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Insecto, que rói a madeira.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_ + _phagein_)</etym>
+</entry>
+
+
+<entry id="xilófilo">
+<form>
+<orth>Xilófilo</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Insecto escarabídeo.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_ + _philos_)</etym>
+</entry>
+
+
+<entry id="xilofónio">
+<form>
+<orth>Xilofónio</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Instrumento, o mesmo que _xilharmónico_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xilofonista" ast="1">
+<form>
+<orth>Xilofonista</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Tocador de xilofónio.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xilofória" ast="1">
+<form>
+<orth>Xilofória</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Festa, em que os Hebreus levavam lenha para o fogo sagrado.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_ + _phoros_)</etym>
+</entry>
+
+
+<entry id="xilóforo" ast="1">
+<form>
+<orth>Xilóforo</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Cada um dos sacerdotes judeus, que acendiam e mantinham o fogo sagrado.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_ + _phoros_)</etym>
+</entry>
+
+
+<entry id="xilópia">
+<form>
+<orth>Xilópia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Planta anonácea dos trópicos.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_ + _ops_)</etym>
+</entry>
+
+
+<entry id="xilórgão" ast="1">
+<form>
+<orth>Xilórgão</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Instrumento, o mesmo que _xilharmónico_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xilossistro" ast="1">
+<form>
+<orth>Xilossistro</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Instrumento, o mesmo que _xilharmónico_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xilótomo" ast="1">
+<form>
+<orth>Xilótomo</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="dom">Zool.</usg>
+<def>
+O mesmo que _xilócopo_.
+</def>
+</sense>
+<etym orig="Gr">(Gr. _xulotomos_)</etym>
+</entry>
+
+
+<entry id="xiridáceas">
+<form>
+<orth>Xiridáceas</orth>
+</form>
+<sense>
+<gramGrp>f. pl.</gramGrp>
+<def>
+Família de plantas, que tem por tipo o xíris.
+(Fem. pl. de _xyridáceo_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xiridáceo" ast="1">
+<form>
+<orth>Xiridáceo</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+Relativo ou semelhante ao xíris.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xíris">
+<form>
+<orth>Xíris</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Gênero de plantas, cujas espécies crescem principalmente na América.
+</def>
+</sense>
+<etym orig="Gr">(Gr. _xuris_)</etym>
+</entry>
+
+
+<entry id="xisto:2" n="2" type="hom">
+<form>
+<orth>Xisto</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Pórtico coberto, entre os Gregos.
+Lugar ou galeria descoberta, para passeio, entre os Romanos.
+</def>
+</sense>
+<etym orig="Lat">(Lat. _xystus_)</etym>
+</entry>
+
+
+<entry id="xisto:3" n="3" type="hom" ast="1">
+<form>
+<orth>Xisto</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Gênero de insectos dípteros.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xustos_)</etym>
+</entry>
+
+
+<entry id="xistrópodes" ast="1">
+<form>
+<orth>Xistrópodes</orth>
+</form>
+<sense>
+<gramGrp>m. pl.</gramGrp>
+<usg type="dom">Zool.</usg>
+<def>
+Divisão da classe das aves, que compreende as galináceas e as columbinas.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xustra_ + _pous_, _podos_)</etym>
+</entry>
+
+
+<entry id="xylophágico">
+<form>
+<orth>Xylophágico</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+Relativo á xylophagia.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xylóphago">
+<form>
+<orth>Xylóphago</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Insecto, que rói a madeira.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_ + _phagein_)</etym>
+</entry>
+
+
+<entry id="xylóphilo">
+<form>
+<orth>Xylóphilo</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Insecto escarabídeo.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_ + _philos_)</etym>
+</entry>
+
+
+<entry id="xylophónio">
+<form>
+<orth>Xylophónio</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Instrumento, o mesmo que _xylharmónico_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xylophonista" ast="1">
+<form>
+<orth>Xylophonista</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Tocador de xylophónio.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xylophória" ast="1">
+<form>
+<orth>Xylophória</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Festa, em que os Hebreus levavam lenha para o fogo sagrado.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_ + _phoros_)</etym>
+</entry>
+
+
+<entry id="xylóphoro" ast="1">
+<form>
+<orth>Xylóphoro</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Cada um dos sacerdotes judeus, que acendiam e mantinham o fogo sagrado.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_ + _phoros_)</etym>
+</entry>
+
+
+<entry id="xylópia">
+<form>
+<orth>Xylópia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Planta anonácea dos trópicos.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xulon_ + _ops_)</etym>
+</entry>
+
+
+<entry id="xylórgão" ast="1">
+<form>
+<orth>Xylórgão</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Instrumento, o mesmo que _xylharmónico_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xylosistro" ast="1">
+<form>
+<orth>Xylosistro</orth>
+<phon extent="part">sis</phon>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Instrumento, o mesmo que _xylharmónico_.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xylótomo" ast="1">
+<form>
+<orth>Xylótomo</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<usg type="dom">Zool.</usg>
+<def>
+O mesmo que _xylócopo_.
+</def>
+</sense>
+<etym orig="Gr">(Gr. _xulotomos_)</etym>
+</entry>
+
+
+<entry id="xyridáceas">
+<form>
+<orth>Xyridáceas</orth>
+</form>
+<sense>
+<gramGrp>f. pl.</gramGrp>
+<def>
+Família de plantas, que tem por typo o xýris.
+(Fem. pl. de _xyridáceo_)
+</def>
+</sense>
+</entry>
+
+
+<entry id="xyridáceo" ast="1">
+<form>
+<orth>Xyridáceo</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+Relativo ou semelhante ao xýris.
+</def>
+</sense>
+</entry>
+
+
+<entry id="xýris">
+<form>
+<orth>Xýris</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Gênero de plantas, cujas espécies crescem principalmente na América.
+</def>
+</sense>
+<etym orig="Gr">(Gr. _xuris_)</etym>
+</entry>
+
+
+<entry id="xysto:1" n="1" type="hom">
+<form>
+<orth>Xysto</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Pórtico coberto, entre os Gregos.
+Lugar ou galeria descoberta, para passeio, entre os Romanos.
+</def>
+</sense>
+<etym orig="Lat">(Lat. _xystus_)</etym>
+</entry>
+
+
+<entry id="xysto:2" n="2" type="hom" ast="1">
+<form>
+<orth>Xysto</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Gênero de insectos dípteros.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xustos_)</etym>
+</entry>
+
+
+<entry id="xystrópodes" ast="1">
+<form>
+<orth>Xystrópodes</orth>
+</form>
+<sense>
+<gramGrp>m. pl.</gramGrp>
+<usg type="dom">Zool.</usg>
+<def>
+Divisão da classe das aves, que comprehende as gallináceas e as columbinas.
+</def>
+</sense>
+<etym ori="gr">(Do gr. _xustra_ + _pous_, _podos_)</etym>
+</entry>
+
+</dic>

@@ -1,0 +1,396 @@
+<?xml version="1.0"?>
+<dic>
+ <head>K</head>
+
+<entry id="k:1" n="1" type="hom">
+<form>
+<orth>K</orth>
+<phon extent="part">cá,capa</phon>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Esta letra tem sido considerada a undécima do nosso alphabeto, mas, de facto, é estranha ao abecedário português, e só deverá usar-se em certos vocábulos não aportuguesados, e em alguns vocábulos derivados de nomes próprios estrangeiros, em que ella entre, sendo todavia tolerável em _kilo_ e seus compostos, onde representa uma espécie de convenção internacional, embora destituída de base scientífica.
+</def>
+</sense>
+<sense>
+<gramGrp>Adj.</gramGrp>
+<def>
+Que numa série occupa o undécimo lugar.--Os Latinos só empregavam o _k_ como letra numeral, que significava 250.
+</def>
+</sense>
+</entry>
+
+
+<entry id="kabbfússia" ast="1">
+<form>
+<orth>Kabbfússia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de plantas compostas.
+</def>
+</sense>
+<etym ori="nome">(De _Kabbfuss_, n. p.)</etym>
+</entry>
+
+
+<entry id="kantismo" ast="1">
+<form>
+<orth>Kantismo</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Systema philosóphico de Kant.
+</def>
+</sense>
+</entry>
+
+
+<entry id="kantista" ast="1">
+<form>
+<orth>Kantista</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Sectário da philosophia de Kant.
+</def>
+</sense>
+</entry>
+
+
+<entry id="kennédya" ast="1">
+<form>
+<orth>Kennédya</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de plantas leguminosas.
+</def>
+</sense>
+<etym ori="nome">(De _Kennedy_, n. p.)</etym>
+</entry>
+
+
+<entry id="képi">
+<form>
+<orth>Képi</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+<ref>(V. <term>quépi</term>)</ref>
+</def>
+</sense>
+</entry>
+
+
+<entry id="képler" ast="1">
+<form>
+<orth>Képler</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+A quarta mancha da lua.
+</def>
+</sense>
+<etym ori="nome">(De _Kepler_, n. p.)</etym>
+</entry>
+
+
+<entry id="kepléria" ast="1">
+<form>
+<orth>Kepléria</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de palmeiras indianas.
+</def>
+</sense>
+<etym ori="nome">(De _Kepler_, n. p.)</etym>
+</entry>
+
+
+<entry id="kepleriano" ast="1">
+<form>
+<orth>Kepleriano</orth>
+</form>
+<sense>
+<gramGrp>adj.</gramGrp>
+<def>
+Relativo a Kepler.
+Diz-se especialmente das três leis de Kepler, que precederam o descobrimento da gravitação.
+</def>
+</sense>
+</entry>
+
+
+<entry id="kera..." ast="1">
+<form>
+<orth>Kera...</orth>
+</form>
+<sense>
+<gramGrp>pref.</gramGrp>
+<def>
+(us. em algumas palavras scientíficas, mas que deve substituir-se por _cera..._)
+</def>
+</sense>
+<etym orig="Gr">(Gr. _keras_)</etym>
+</entry>
+
+
+<entry id="kermesse" ast="1">
+<form>
+<orth>Kermesse</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Estrangeirismo inútil, por _feira com arraial_, _bazar_.
+</def>
+</sense>
+<etym orig="Fr">(Fr. _kermesse_)</etym>
+</entry>
+
+
+<entry id="kérria" ast="1">
+<form>
+<orth>Kérria</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de plantas da tríbo das espíreas, originária do Japão, (_herria japonica_).
+</def>
+</sense>
+<etym ori="nome">(De _Kerr_, n. p.)</etym>
+</entry>
+
+
+<entry id="khediva" ast="1">
+<form>
+<orth>Khediva</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+<ref>(V. <term>quedive</term>)</ref>
+</def>
+</sense>
+</entry>
+
+
+<entry id="killíngia" ast="1">
+<form>
+<orth>Killíngia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de plantas, cyperáceas.
+</def>
+</sense>
+<etym ori="nome">(De _Killing_, n. p.)</etym>
+</entry>
+
+
+<entry id="kilo">
+<form>
+<orth>Kilo</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+(e seus compostos)
+(V. _quilo_^1, etc.)
+</def>
+</sense>
+</entry>
+
+
+<entry id="kirganélia">
+<form>
+<orth>Kirganélia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Árvore euphorbiácea da Índia.
+</def>
+</sense>
+<etym ori="nome">(De _Kirganel_, n. p.)</etym>
+</entry>
+
+
+<entry id="kleínia" ast="1">
+<form>
+<orth>Kleínia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de plantas compostas.
+</def>
+</sense>
+<etym ori="nome">(De _Klein_, n. p.)</etym>
+</entry>
+
+
+<entry id="kneipista">
+<form>
+<orth>Kneipista</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Sectário do systema therapêutico de Kneip.
+</def>
+</sense>
+</entry>
+
+
+<entry id="knóxia" ast="1">
+<form>
+<orth>Knóxia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de plantas rubiáceas da Índia.
+</def>
+</sense>
+<etym ori="nome">(De _Knox_, n. p.)</etym>
+</entry>
+
+
+<entry id="kóchia" ast="1">
+<form>
+<orth>Kóchia</orth>
+<phon extent="part">qui</phon>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de plantas chenopódeas.
+</def>
+</sense>
+<etym ori="nome">(De _Koch_, n. p.)</etym>
+</entry>
+
+
+<entry id="koeléria" ast="1">
+<form>
+<orth>Koeléria</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de plantas gramíneas.
+</def>
+</sense>
+<etym ori="nome">(De _Koeler_, n. p.)</etym>
+</entry>
+
+
+<entry id="koelreutéria" ast="1">
+<form>
+<orth>Koelreutéria</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de plantas sapindáceas.
+</def>
+</sense>
+<etym ori="nome">(De _Koelreuter_, n. p.)</etym>
+</entry>
+
+
+<entry id="kólbia" ast="1">
+<form>
+<orth>Kólbia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Planta trepadeira da África tropical.
+</def>
+</sense>
+<etym ori="nome">(De _Kolb_, n. p.)</etym>
+</entry>
+
+
+<entry id="kraméria" ast="1">
+<form>
+<orth>Kraméria</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de arbustos americanos.
+</def>
+</sense>
+<etym ori="nome">(De _Kramer_, n. p.)</etym>
+</entry>
+
+
+<entry id="krausista" ast="1">
+<form>
+<orth>Krausista</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Partidário do systema philosóphico de Krause.
+</def>
+</sense>
+</entry>
+
+
+<entry id="kúmmel" chaveta="1" ast="1">
+<form>
+<orth>Kúmmel</orth>
+</form>
+<sense>
+<gramGrp>m.</gramGrp>
+<def>
+Licôr doce e alcoólico, cujo gôsto particular é devido a uma infusão de sementes de cominho.
+</def>
+</sense>
+</entry>
+
+
+<entry id="kúnthia" ast="1">
+<form>
+<orth>Kúnthia</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de palmeiras dos Andes.
+</def>
+</sense>
+<etym ori="nome">(De _Kunth_, n. p.)</etym>
+</entry>
+
+
+<entry id="kúnzea" ast="1">
+<form>
+<orth>Kúnzea</orth>
+</form>
+<sense>
+<gramGrp>f.</gramGrp>
+<def>
+Gênero de plantas myrtáceas.
+</def>
+</sense>
+<etym ori="nome">(De _Kunz_, n. p.)</etym>
+</entry>
+
+</dic>
