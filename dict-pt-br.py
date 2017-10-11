@@ -46,6 +46,7 @@ for fil in allFiles:
             if gotWord and gotGram:
                 # Savind the dictionary
                 dic_pt_br[word.lower()] = gram.lower()
+                break
     
 # Saving the dictionary
 json.dump(dic_pt_br, open("dic-pt-br.txt",'w'))
